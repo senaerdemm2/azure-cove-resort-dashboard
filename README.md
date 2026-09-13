@@ -16,7 +16,7 @@ A 60-second video walkthrough of the prototype is available in `prototype-loop-B
 ## 🖼️ Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshot-1-exec.png)
+![Executive Overview](screenshot-1-exec (1).png)
 
 ### Page 4 — Launch Readiness (Gantt + Alerts)
 ![Launch Readiness](screenshot-4-launch.png)
