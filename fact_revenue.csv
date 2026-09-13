@@ -1,0 +1,1826 @@
+Date,Service,Revenue,RoomsSold,GuestSatisfaction
+2024-09-01,Hotel Rooms,14643.8,46,8.2
+2024-09-01,Spa & Wellness,2923.42,,8.5
+2024-09-01,Restaurant,6354.64,,9.1
+2024-09-01,Tours & Activities,4216.75,,8.3
+2024-09-01,Events & Weddings,0.0,,
+2024-09-02,Hotel Rooms,8626.52,27,8.9
+2024-09-02,Spa & Wellness,1474.7,,8.5
+2024-09-02,Restaurant,5840.31,,9.0
+2024-09-02,Tours & Activities,1704.45,,9.0
+2024-09-02,Events & Weddings,0.0,,
+2024-09-03,Hotel Rooms,17023.22,53,9.2
+2024-09-03,Spa & Wellness,3303.66,,8.4
+2024-09-03,Restaurant,7665.85,,8.7
+2024-09-03,Tours & Activities,1226.87,,8.3
+2024-09-03,Events & Weddings,0.0,,
+2024-09-04,Hotel Rooms,17041.93,53,9.2
+2024-09-04,Spa & Wellness,4446.21,,9.6
+2024-09-04,Restaurant,4228.49,,9.0
+2024-09-04,Tours & Activities,3981.97,,9.1
+2024-09-04,Events & Weddings,0.0,,
+2024-09-05,Hotel Rooms,15575.38,49,8.3
+2024-09-05,Spa & Wellness,2648.65,,8.6
+2024-09-05,Restaurant,2453.96,,8.5
+2024-09-05,Tours & Activities,1257.75,,8.6
+2024-09-05,Events & Weddings,0.0,,
+2024-09-06,Hotel Rooms,12736.43,40,8.5
+2024-09-06,Spa & Wellness,3394.25,,9.5
+2024-09-06,Restaurant,6878.61,,9.1
+2024-09-06,Tours & Activities,1793.67,,9.2
+2024-09-06,Events & Weddings,0.0,,
+2024-09-07,Hotel Rooms,23187.22,72,9.1
+2024-09-07,Spa & Wellness,5389.08,,9.2
+2024-09-07,Restaurant,8244.12,,9.3
+2024-09-07,Tours & Activities,2049.23,,8.2
+2024-09-07,Events & Weddings,0.0,,
+2024-09-08,Hotel Rooms,8517.05,27,9.5
+2024-09-08,Spa & Wellness,6429.22,,8.6
+2024-09-08,Restaurant,5873.31,,8.8
+2024-09-08,Tours & Activities,4300.41,,8.8
+2024-09-08,Events & Weddings,0.0,,
+2024-09-09,Hotel Rooms,13527.56,42,8.6
+2024-09-09,Spa & Wellness,4728.14,,9.5
+2024-09-09,Restaurant,4352.44,,8.5
+2024-09-09,Tours & Activities,4610.79,,8.9
+2024-09-09,Events & Weddings,0.0,,
+2024-09-10,Hotel Rooms,7067.98,22,9.1
+2024-09-10,Spa & Wellness,5937.82,,8.8
+2024-09-10,Restaurant,2357.35,,8.7
+2024-09-10,Tours & Activities,4605.49,,8.9
+2024-09-10,Events & Weddings,9052.58,,9.2
+2024-09-11,Hotel Rooms,15248.46,48,9.0
+2024-09-11,Spa & Wellness,2875.59,,9.1
+2024-09-11,Restaurant,2642.62,,8.8
+2024-09-11,Tours & Activities,2576.93,,9.5
+2024-09-11,Events & Weddings,0.0,,
+2024-09-12,Hotel Rooms,12658.38,40,8.5
+2024-09-12,Spa & Wellness,6640.62,,9.4
+2024-09-12,Restaurant,3752.76,,9.1
+2024-09-12,Tours & Activities,3157.55,,8.4
+2024-09-12,Events & Weddings,0.0,,
+2024-09-13,Hotel Rooms,19628.54,61,8.9
+2024-09-13,Spa & Wellness,1561.53,,8.7
+2024-09-13,Restaurant,2472.92,,9.5
+2024-09-13,Tours & Activities,4916.38,,9.4
+2024-09-13,Events & Weddings,0.0,,
+2024-09-14,Hotel Rooms,21305.53,67,9.5
+2024-09-14,Spa & Wellness,2146.84,,8.9
+2024-09-14,Restaurant,2821.52,,9.3
+2024-09-14,Tours & Activities,4418.18,,8.4
+2024-09-14,Events & Weddings,0.0,,
+2024-09-15,Hotel Rooms,9290.31,29,9.4
+2024-09-15,Spa & Wellness,3786.89,,8.5
+2024-09-15,Restaurant,5183.42,,9.2
+2024-09-15,Tours & Activities,1632.3,,8.6
+2024-09-15,Events & Weddings,0.0,,
+2024-09-16,Hotel Rooms,11764.83,37,8.9
+2024-09-16,Spa & Wellness,2025.45,,8.5
+2024-09-16,Restaurant,3988.23,,9.0
+2024-09-16,Tours & Activities,1740.63,,8.5
+2024-09-16,Events & Weddings,0.0,,
+2024-09-17,Hotel Rooms,8773.87,27,9.5
+2024-09-17,Spa & Wellness,6331.67,,8.3
+2024-09-17,Restaurant,3393.75,,9.1
+2024-09-17,Tours & Activities,1681.25,,8.4
+2024-09-17,Events & Weddings,0.0,,
+2024-09-18,Hotel Rooms,12259.2,38,9.3
+2024-09-18,Spa & Wellness,6027.71,,8.5
+2024-09-18,Restaurant,2555.77,,8.8
+2024-09-18,Tours & Activities,2464.18,,8.9
+2024-09-18,Events & Weddings,0.0,,
+2024-09-19,Hotel Rooms,19573.56,61,8.3
+2024-09-19,Spa & Wellness,3667.28,,8.7
+2024-09-19,Restaurant,7098.33,,8.5
+2024-09-19,Tours & Activities,1591.38,,8.8
+2024-09-19,Events & Weddings,0.0,,
+2024-09-20,Hotel Rooms,10705.23,33,9.5
+2024-09-20,Spa & Wellness,4606.07,,9.4
+2024-09-20,Restaurant,6193.74,,8.3
+2024-09-20,Tours & Activities,5448.43,,9.4
+2024-09-20,Events & Weddings,32416.14,,8.4
+2024-09-21,Hotel Rooms,14684.71,46,8.5
+2024-09-21,Spa & Wellness,4316.52,,8.3
+2024-09-21,Restaurant,4992.7,,9.6
+2024-09-21,Tours & Activities,2208.79,,9.3
+2024-09-21,Events & Weddings,0.0,,
+2024-09-22,Hotel Rooms,19189.64,60,9.6
+2024-09-22,Spa & Wellness,4560.13,,9.2
+2024-09-22,Restaurant,2899.49,,8.6
+2024-09-22,Tours & Activities,4502.97,,9.0
+2024-09-22,Events & Weddings,10057.64,,9.0
+2024-09-23,Hotel Rooms,12690.76,40,9.4
+2024-09-23,Spa & Wellness,2237.83,,9.5
+2024-09-23,Restaurant,2455.86,,8.5
+2024-09-23,Tours & Activities,3105.43,,9.1
+2024-09-23,Events & Weddings,0.0,,
+2024-09-24,Hotel Rooms,18231.11,57,8.5
+2024-09-24,Spa & Wellness,4786.05,,9.1
+2024-09-24,Restaurant,4470.2,,9.0
+2024-09-24,Tours & Activities,2835.21,,9.5
+2024-09-24,Events & Weddings,14051.09,,8.8
+2024-09-25,Hotel Rooms,15105.17,47,8.6
+2024-09-25,Spa & Wellness,3163.31,,9.3
+2024-09-25,Restaurant,2410.91,,8.8
+2024-09-25,Tours & Activities,4614.22,,9.6
+2024-09-25,Events & Weddings,0.0,,
+2024-09-26,Hotel Rooms,9292.37,29,9.5
+2024-09-26,Spa & Wellness,6455.44,,9.4
+2024-09-26,Restaurant,4174.99,,8.4
+2024-09-26,Tours & Activities,3998.21,,9.2
+2024-09-26,Events & Weddings,23187.48,,8.2
+2024-09-27,Hotel Rooms,20277.82,63,8.6
+2024-09-27,Spa & Wellness,6121.32,,9.5
+2024-09-27,Restaurant,3277.67,,8.4
+2024-09-27,Tours & Activities,1510.77,,9.0
+2024-09-27,Events & Weddings,0.0,,
+2024-09-28,Hotel Rooms,18598.99,58,8.5
+2024-09-28,Spa & Wellness,5920.78,,8.6
+2024-09-28,Restaurant,5760.62,,9.5
+2024-09-28,Tours & Activities,4772.42,,8.3
+2024-09-28,Events & Weddings,0.0,,
+2024-09-29,Hotel Rooms,5550.7,17,9.3
+2024-09-29,Spa & Wellness,5034.37,,8.6
+2024-09-29,Restaurant,6382.91,,9.0
+2024-09-29,Tours & Activities,2479.55,,8.2
+2024-09-29,Events & Weddings,28686.43,,9.0
+2024-09-30,Hotel Rooms,17434.71,54,9.0
+2024-09-30,Spa & Wellness,2183.39,,8.4
+2024-09-30,Restaurant,3811.05,,9.5
+2024-09-30,Tours & Activities,3857.5,,9.4
+2024-09-30,Events & Weddings,0.0,,
+2024-10-01,Hotel Rooms,9068.28,28,8.3
+2024-10-01,Spa & Wellness,5868.08,,9.4
+2024-10-01,Restaurant,4393.88,,9.1
+2024-10-01,Tours & Activities,1458.03,,9.5
+2024-10-01,Events & Weddings,26636.98,,9.4
+2024-10-02,Hotel Rooms,5854.44,18,9.2
+2024-10-02,Spa & Wellness,3256.64,,9.5
+2024-10-02,Restaurant,6745.28,,9.4
+2024-10-02,Tours & Activities,3912.2,,8.6
+2024-10-02,Events & Weddings,0.0,,
+2024-10-03,Hotel Rooms,17971.98,56,9.4
+2024-10-03,Spa & Wellness,2616.79,,9.3
+2024-10-03,Restaurant,4714.2,,8.6
+2024-10-03,Tours & Activities,3854.59,,8.5
+2024-10-03,Events & Weddings,0.0,,
+2024-10-04,Hotel Rooms,12029.09,38,9.4
+2024-10-04,Spa & Wellness,8209.22,,8.6
+2024-10-04,Restaurant,6832.67,,8.8
+2024-10-04,Tours & Activities,5368.41,,9.0
+2024-10-04,Events & Weddings,0.0,,
+2024-10-05,Hotel Rooms,22864.54,71,8.4
+2024-10-05,Spa & Wellness,8179.26,,8.6
+2024-10-05,Restaurant,3096.22,,8.8
+2024-10-05,Tours & Activities,4253.62,,8.6
+2024-10-05,Events & Weddings,0.0,,
+2024-10-06,Hotel Rooms,11008.29,34,9.0
+2024-10-06,Spa & Wellness,2805.03,,9.2
+2024-10-06,Restaurant,1990.05,,9.5
+2024-10-06,Tours & Activities,2893.81,,9.2
+2024-10-06,Events & Weddings,0.0,,
+2024-10-07,Hotel Rooms,10708.37,33,8.3
+2024-10-07,Spa & Wellness,5192.51,,8.7
+2024-10-07,Restaurant,3844.66,,9.4
+2024-10-07,Tours & Activities,3571.88,,8.6
+2024-10-07,Events & Weddings,0.0,,
+2024-10-08,Hotel Rooms,11254.33,35,8.6
+2024-10-08,Spa & Wellness,2062.09,,8.8
+2024-10-08,Restaurant,7565.76,,9.1
+2024-10-08,Tours & Activities,4256.49,,9.1
+2024-10-08,Events & Weddings,0.0,,
+2024-10-09,Hotel Rooms,5505.8,17,8.6
+2024-10-09,Spa & Wellness,3826.25,,9.0
+2024-10-09,Restaurant,5868.95,,8.9
+2024-10-09,Tours & Activities,2533.68,,8.5
+2024-10-09,Events & Weddings,26312.54,,8.4
+2024-10-10,Hotel Rooms,6712.58,21,8.9
+2024-10-10,Spa & Wellness,5010.05,,8.7
+2024-10-10,Restaurant,6841.44,,9.3
+2024-10-10,Tours & Activities,3396.26,,8.5
+2024-10-10,Events & Weddings,0.0,,
+2024-10-11,Hotel Rooms,10621.47,33,8.9
+2024-10-11,Spa & Wellness,7403.29,,8.3
+2024-10-11,Restaurant,5241.3,,9.1
+2024-10-11,Tours & Activities,1896.48,,9.2
+2024-10-11,Events & Weddings,0.0,,
+2024-10-12,Hotel Rooms,17560.32,55,8.2
+2024-10-12,Spa & Wellness,6723.79,,9.3
+2024-10-12,Restaurant,3083.49,,8.8
+2024-10-12,Tours & Activities,1814.62,,9.5
+2024-10-12,Events & Weddings,0.0,,
+2024-10-13,Hotel Rooms,9063.54,28,9.4
+2024-10-13,Spa & Wellness,3981.17,,9.3
+2024-10-13,Restaurant,5945.41,,9.6
+2024-10-13,Tours & Activities,3106.99,,9.5
+2024-10-13,Events & Weddings,0.0,,
+2024-10-14,Hotel Rooms,15785.62,49,8.9
+2024-10-14,Spa & Wellness,6162.22,,9.0
+2024-10-14,Restaurant,7309.42,,9.2
+2024-10-14,Tours & Activities,2655.28,,8.6
+2024-10-14,Events & Weddings,0.0,,
+2024-10-15,Hotel Rooms,16451.14,51,8.9
+2024-10-15,Spa & Wellness,4973.94,,8.6
+2024-10-15,Restaurant,2440.25,,8.6
+2024-10-15,Tours & Activities,1896.21,,8.6
+2024-10-15,Events & Weddings,0.0,,
+2024-10-16,Hotel Rooms,8807.04,28,9.2
+2024-10-16,Spa & Wellness,5438.42,,8.3
+2024-10-16,Restaurant,4401.14,,9.0
+2024-10-16,Tours & Activities,2435.0,,8.5
+2024-10-16,Events & Weddings,21649.75,,9.2
+2024-10-17,Hotel Rooms,17751.27,55,9.3
+2024-10-17,Spa & Wellness,3537.62,,8.2
+2024-10-17,Restaurant,4069.45,,9.3
+2024-10-17,Tours & Activities,4071.9,,9.5
+2024-10-17,Events & Weddings,20814.91,,9.0
+2024-10-18,Hotel Rooms,10211.37,32,8.5
+2024-10-18,Spa & Wellness,4555.89,,8.2
+2024-10-18,Restaurant,4692.4,,9.2
+2024-10-18,Tours & Activities,2822.73,,8.4
+2024-10-18,Events & Weddings,0.0,,
+2024-10-19,Hotel Rooms,16989.96,53,8.2
+2024-10-19,Spa & Wellness,4268.22,,9.0
+2024-10-19,Restaurant,2526.36,,9.1
+2024-10-19,Tours & Activities,1637.27,,8.8
+2024-10-19,Events & Weddings,0.0,,
+2024-10-20,Hotel Rooms,8526.74,27,8.7
+2024-10-20,Spa & Wellness,5757.97,,8.7
+2024-10-20,Restaurant,6446.94,,9.4
+2024-10-20,Tours & Activities,1823.5,,8.3
+2024-10-20,Events & Weddings,0.0,,
+2024-10-21,Hotel Rooms,19798.68,62,8.7
+2024-10-21,Spa & Wellness,5110.34,,9.3
+2024-10-21,Restaurant,5851.42,,9.3
+2024-10-21,Tours & Activities,4431.55,,8.5
+2024-10-21,Events & Weddings,0.0,,
+2024-10-22,Hotel Rooms,7304.96,23,9.1
+2024-10-22,Spa & Wellness,4607.94,,8.5
+2024-10-22,Restaurant,6134.82,,9.3
+2024-10-22,Tours & Activities,1507.53,,9.1
+2024-10-22,Events & Weddings,0.0,,
+2024-10-23,Hotel Rooms,17216.01,54,9.6
+2024-10-23,Spa & Wellness,1950.22,,8.2
+2024-10-23,Restaurant,3833.03,,9.1
+2024-10-23,Tours & Activities,4463.57,,8.8
+2024-10-23,Events & Weddings,0.0,,
+2024-10-24,Hotel Rooms,15375.79,48,9.1
+2024-10-24,Spa & Wellness,1914.08,,9.3
+2024-10-24,Restaurant,7030.74,,9.0
+2024-10-24,Tours & Activities,1332.75,,9.6
+2024-10-24,Events & Weddings,0.0,,
+2024-10-25,Hotel Rooms,13718.45,43,8.7
+2024-10-25,Spa & Wellness,5038.31,,8.7
+2024-10-25,Restaurant,8291.25,,9.4
+2024-10-25,Tours & Activities,1504.16,,9.5
+2024-10-25,Events & Weddings,28745.73,,8.8
+2024-10-26,Hotel Rooms,18872.06,59,9.6
+2024-10-26,Spa & Wellness,3415.6,,9.3
+2024-10-26,Restaurant,6108.56,,8.9
+2024-10-26,Tours & Activities,2960.68,,9.2
+2024-10-26,Events & Weddings,31949.78,,8.3
+2024-10-27,Hotel Rooms,18107.33,57,8.5
+2024-10-27,Spa & Wellness,4029.25,,9.1
+2024-10-27,Restaurant,4231.2,,8.2
+2024-10-27,Tours & Activities,4062.56,,8.5
+2024-10-27,Events & Weddings,16287.45,,9.4
+2024-10-28,Hotel Rooms,15526.93,49,8.6
+2024-10-28,Spa & Wellness,1379.18,,9.5
+2024-10-28,Restaurant,2488.54,,9.2
+2024-10-28,Tours & Activities,2707.28,,9.3
+2024-10-28,Events & Weddings,0.0,,
+2024-10-29,Hotel Rooms,12518.75,39,9.3
+2024-10-29,Spa & Wellness,1862.5,,8.5
+2024-10-29,Restaurant,6089.22,,8.6
+2024-10-29,Tours & Activities,3055.02,,8.9
+2024-10-29,Events & Weddings,0.0,,
+2024-10-30,Hotel Rooms,16166.88,51,8.7
+2024-10-30,Spa & Wellness,5417.64,,8.6
+2024-10-30,Restaurant,3473.34,,8.4
+2024-10-30,Tours & Activities,1600.27,,8.4
+2024-10-30,Events & Weddings,12873.3,,8.5
+2024-10-31,Hotel Rooms,12424.04,39,9.2
+2024-10-31,Spa & Wellness,7013.62,,8.9
+2024-10-31,Restaurant,3661.01,,8.3
+2024-10-31,Tours & Activities,1606.0,,8.5
+2024-10-31,Events & Weddings,0.0,,
+2024-11-01,Hotel Rooms,15503.0,48,8.6
+2024-11-01,Spa & Wellness,8260.16,,9.0
+2024-11-01,Restaurant,7224.74,,8.4
+2024-11-01,Tours & Activities,4871.09,,8.9
+2024-11-01,Events & Weddings,0.0,,
+2024-11-02,Hotel Rooms,14410.6,45,8.8
+2024-11-02,Spa & Wellness,2825.91,,8.3
+2024-11-02,Restaurant,8932.5,,8.9
+2024-11-02,Tours & Activities,4666.56,,8.8
+2024-11-02,Events & Weddings,0.0,,
+2024-11-03,Hotel Rooms,6266.61,20,8.4
+2024-11-03,Spa & Wellness,4601.35,,8.6
+2024-11-03,Restaurant,7883.87,,8.4
+2024-11-03,Tours & Activities,3739.02,,9.0
+2024-11-03,Events & Weddings,0.0,,
+2024-11-04,Hotel Rooms,12972.79,41,8.8
+2024-11-04,Spa & Wellness,3901.06,,9.4
+2024-11-04,Restaurant,7860.79,,8.6
+2024-11-04,Tours & Activities,3202.64,,9.1
+2024-11-04,Events & Weddings,13371.33,,8.5
+2024-11-05,Hotel Rooms,14944.12,47,8.4
+2024-11-05,Spa & Wellness,2333.33,,8.3
+2024-11-05,Restaurant,1995.89,,8.8
+2024-11-05,Tours & Activities,3100.85,,8.6
+2024-11-05,Events & Weddings,24265.73,,8.8
+2024-11-06,Hotel Rooms,15329.6,48,9.5
+2024-11-06,Spa & Wellness,5913.04,,9.1
+2024-11-06,Restaurant,5907.43,,9.5
+2024-11-06,Tours & Activities,2470.02,,9.0
+2024-11-06,Events & Weddings,26985.89,,8.3
+2024-11-07,Hotel Rooms,7872.7,25,8.6
+2024-11-07,Spa & Wellness,5686.42,,9.0
+2024-11-07,Restaurant,3694.35,,8.4
+2024-11-07,Tours & Activities,3455.66,,9.2
+2024-11-07,Events & Weddings,0.0,,
+2024-11-08,Hotel Rooms,14822.3,46,8.3
+2024-11-08,Spa & Wellness,1831.82,,8.8
+2024-11-08,Restaurant,4595.62,,8.6
+2024-11-08,Tours & Activities,1441.44,,9.5
+2024-11-08,Events & Weddings,0.0,,
+2024-11-09,Hotel Rooms,22533.57,70,9.6
+2024-11-09,Spa & Wellness,6182.49,,8.6
+2024-11-09,Restaurant,2618.39,,9.3
+2024-11-09,Tours & Activities,3114.81,,9.1
+2024-11-09,Events & Weddings,0.0,,
+2024-11-10,Hotel Rooms,13870.21,43,9.1
+2024-11-10,Spa & Wellness,4186.76,,8.3
+2024-11-10,Restaurant,4046.89,,8.7
+2024-11-10,Tours & Activities,3386.3,,9.4
+2024-11-10,Events & Weddings,0.0,,
+2024-11-11,Hotel Rooms,9621.51,30,9.5
+2024-11-11,Spa & Wellness,6063.09,,9.0
+2024-11-11,Restaurant,4681.67,,8.6
+2024-11-11,Tours & Activities,2089.04,,9.6
+2024-11-11,Events & Weddings,0.0,,
+2024-11-12,Hotel Rooms,19630.1,61,9.1
+2024-11-12,Spa & Wellness,4483.32,,8.8
+2024-11-12,Restaurant,3094.24,,8.7
+2024-11-12,Tours & Activities,3709.1,,9.1
+2024-11-12,Events & Weddings,0.0,,
+2024-11-13,Hotel Rooms,13353.84,42,9.5
+2024-11-13,Spa & Wellness,3874.22,,9.2
+2024-11-13,Restaurant,2701.27,,9.6
+2024-11-13,Tours & Activities,3157.18,,8.5
+2024-11-13,Events & Weddings,0.0,,
+2024-11-14,Hotel Rooms,13397.2,42,8.3
+2024-11-14,Spa & Wellness,7104.86,,9.5
+2024-11-14,Restaurant,4721.0,,8.4
+2024-11-14,Tours & Activities,3992.22,,8.9
+2024-11-14,Events & Weddings,0.0,,
+2024-11-15,Hotel Rooms,11103.77,35,9.4
+2024-11-15,Spa & Wellness,8301.09,,8.5
+2024-11-15,Restaurant,6200.33,,8.7
+2024-11-15,Tours & Activities,5106.79,,8.9
+2024-11-15,Events & Weddings,17555.38,,9.3
+2024-11-16,Hotel Rooms,13491.74,42,9.5
+2024-11-16,Spa & Wellness,5050.53,,9.3
+2024-11-16,Restaurant,4318.88,,8.6
+2024-11-16,Tours & Activities,3628.67,,9.6
+2024-11-16,Events & Weddings,0.0,,
+2024-11-17,Hotel Rooms,13201.7,41,8.7
+2024-11-17,Spa & Wellness,4537.68,,9.0
+2024-11-17,Restaurant,4684.75,,8.7
+2024-11-17,Tours & Activities,1585.56,,9.2
+2024-11-17,Events & Weddings,0.0,,
+2024-11-18,Hotel Rooms,16590.29,52,8.3
+2024-11-18,Spa & Wellness,5661.63,,9.2
+2024-11-18,Restaurant,6799.77,,8.7
+2024-11-18,Tours & Activities,3362.2,,9.3
+2024-11-18,Events & Weddings,0.0,,
+2024-11-19,Hotel Rooms,6029.38,19,8.9
+2024-11-19,Spa & Wellness,4760.75,,9.4
+2024-11-19,Restaurant,7172.69,,8.8
+2024-11-19,Tours & Activities,2847.06,,8.8
+2024-11-19,Events & Weddings,0.0,,
+2024-11-20,Hotel Rooms,14863.37,46,8.4
+2024-11-20,Spa & Wellness,4057.13,,9.6
+2024-11-20,Restaurant,3991.05,,9.2
+2024-11-20,Tours & Activities,3310.39,,9.4
+2024-11-20,Events & Weddings,17160.21,,8.6
+2024-11-21,Hotel Rooms,15777.66,49,9.3
+2024-11-21,Spa & Wellness,6405.99,,8.3
+2024-11-21,Restaurant,2386.42,,9.1
+2024-11-21,Tours & Activities,4324.27,,9.6
+2024-11-21,Events & Weddings,0.0,,
+2024-11-22,Hotel Rooms,8151.13,25,9.1
+2024-11-22,Spa & Wellness,7560.42,,8.8
+2024-11-22,Restaurant,7200.79,,9.5
+2024-11-22,Tours & Activities,1241.37,,9.3
+2024-11-22,Events & Weddings,0.0,,
+2024-11-23,Hotel Rooms,8946.34,28,8.9
+2024-11-23,Spa & Wellness,5450.85,,9.3
+2024-11-23,Restaurant,3527.85,,8.3
+2024-11-23,Tours & Activities,4881.59,,9.1
+2024-11-23,Events & Weddings,14099.34,,8.8
+2024-11-24,Hotel Rooms,9131.88,29,8.6
+2024-11-24,Spa & Wellness,1374.79,,9.3
+2024-11-24,Restaurant,7333.18,,9.1
+2024-11-24,Tours & Activities,1470.83,,8.8
+2024-11-24,Events & Weddings,0.0,,
+2024-11-25,Hotel Rooms,14636.82,46,8.8
+2024-11-25,Spa & Wellness,2778.07,,9.4
+2024-11-25,Restaurant,3163.35,,8.7
+2024-11-25,Tours & Activities,2687.2,,8.5
+2024-11-25,Events & Weddings,0.0,,
+2024-11-26,Hotel Rooms,19695.5,62,8.6
+2024-11-26,Spa & Wellness,7021.42,,9.1
+2024-11-26,Restaurant,3610.41,,9.0
+2024-11-26,Tours & Activities,3444.89,,9.2
+2024-11-26,Events & Weddings,0.0,,
+2024-11-27,Hotel Rooms,12603.2,39,9.5
+2024-11-27,Spa & Wellness,2988.51,,9.3
+2024-11-27,Restaurant,5585.97,,8.7
+2024-11-27,Tours & Activities,3260.95,,9.1
+2024-11-27,Events & Weddings,23301.99,,9.4
+2024-11-28,Hotel Rooms,14483.95,45,9.5
+2024-11-28,Spa & Wellness,5088.17,,8.6
+2024-11-28,Restaurant,4598.49,,9.0
+2024-11-28,Tours & Activities,3619.03,,8.3
+2024-11-28,Events & Weddings,12664.08,,8.4
+2024-11-29,Hotel Rooms,15591.97,49,9.6
+2024-11-29,Spa & Wellness,5209.55,,9.5
+2024-11-29,Restaurant,8157.35,,8.6
+2024-11-29,Tours & Activities,4677.92,,8.9
+2024-11-29,Events & Weddings,19177.05,,8.4
+2024-11-30,Hotel Rooms,22737.86,71,8.4
+2024-11-30,Spa & Wellness,8206.54,,9.4
+2024-11-30,Restaurant,7412.58,,9.6
+2024-11-30,Tours & Activities,5307.15,,9.3
+2024-11-30,Events & Weddings,10745.33,,9.0
+2024-12-01,Hotel Rooms,13640.27,43,9.1
+2024-12-01,Spa & Wellness,5954.26,,9.0
+2024-12-01,Restaurant,7801.32,,9.5
+2024-12-01,Tours & Activities,1460.47,,8.5
+2024-12-01,Events & Weddings,24035.18,,9.5
+2024-12-02,Hotel Rooms,9847.22,31,8.3
+2024-12-02,Spa & Wellness,6958.04,,9.5
+2024-12-02,Restaurant,4289.78,,8.8
+2024-12-02,Tours & Activities,1594.05,,9.5
+2024-12-02,Events & Weddings,0.0,,
+2024-12-03,Hotel Rooms,7829.37,24,9.4
+2024-12-03,Spa & Wellness,2398.77,,8.8
+2024-12-03,Restaurant,6775.78,,9.2
+2024-12-03,Tours & Activities,5020.39,,8.8
+2024-12-03,Events & Weddings,0.0,,
+2024-12-04,Hotel Rooms,12991.87,41,8.3
+2024-12-04,Spa & Wellness,4741.92,,8.8
+2024-12-04,Restaurant,8672.77,,8.2
+2024-12-04,Tours & Activities,2574.75,,8.8
+2024-12-04,Events & Weddings,12483.87,,9.2
+2024-12-05,Hotel Rooms,15097.57,47,9.6
+2024-12-05,Spa & Wellness,3876.21,,8.8
+2024-12-05,Restaurant,3531.21,,8.4
+2024-12-05,Tours & Activities,4604.14,,8.8
+2024-12-05,Events & Weddings,0.0,,
+2024-12-06,Hotel Rooms,18825.27,59,8.2
+2024-12-06,Spa & Wellness,7920.77,,8.5
+2024-12-06,Restaurant,3657.98,,9.0
+2024-12-06,Tours & Activities,1524.08,,9.3
+2024-12-06,Events & Weddings,0.0,,
+2024-12-07,Hotel Rooms,24051.41,75,8.7
+2024-12-07,Spa & Wellness,2923.5,,9.5
+2024-12-07,Restaurant,2677.59,,9.4
+2024-12-07,Tours & Activities,1905.61,,8.4
+2024-12-07,Events & Weddings,0.0,,
+2024-12-08,Hotel Rooms,16992.19,53,8.2
+2024-12-08,Spa & Wellness,1598.45,,9.3
+2024-12-08,Restaurant,3856.04,,8.7
+2024-12-08,Tours & Activities,1740.55,,8.3
+2024-12-08,Events & Weddings,0.0,,
+2024-12-09,Hotel Rooms,18367.06,57,8.9
+2024-12-09,Spa & Wellness,6654.36,,8.9
+2024-12-09,Restaurant,2986.11,,8.9
+2024-12-09,Tours & Activities,5018.02,,8.3
+2024-12-09,Events & Weddings,23036.28,,8.8
+2024-12-10,Hotel Rooms,21915.43,68,8.3
+2024-12-10,Spa & Wellness,4673.26,,8.8
+2024-12-10,Restaurant,6881.16,,8.9
+2024-12-10,Tours & Activities,4866.23,,8.3
+2024-12-10,Events & Weddings,0.0,,
+2024-12-11,Hotel Rooms,7317.34,23,8.6
+2024-12-11,Spa & Wellness,5694.13,,9.0
+2024-12-11,Restaurant,4445.0,,9.6
+2024-12-11,Tours & Activities,3254.87,,8.8
+2024-12-11,Events & Weddings,0.0,,
+2024-12-12,Hotel Rooms,17653.92,55,9.4
+2024-12-12,Spa & Wellness,5812.32,,9.3
+2024-12-12,Restaurant,7115.67,,8.5
+2024-12-12,Tours & Activities,2919.11,,8.5
+2024-12-12,Events & Weddings,0.0,,
+2024-12-13,Hotel Rooms,15351.6,48,8.3
+2024-12-13,Spa & Wellness,5106.23,,9.1
+2024-12-13,Restaurant,5636.31,,8.4
+2024-12-13,Tours & Activities,5808.77,,8.3
+2024-12-13,Events & Weddings,0.0,,
+2024-12-14,Hotel Rooms,9226.62,29,9.2
+2024-12-14,Spa & Wellness,8116.01,,9.0
+2024-12-14,Restaurant,7326.19,,9.0
+2024-12-14,Tours & Activities,2833.17,,8.4
+2024-12-14,Events & Weddings,0.0,,
+2024-12-15,Hotel Rooms,18442.12,58,9.4
+2024-12-15,Spa & Wellness,6277.03,,9.6
+2024-12-15,Restaurant,6302.77,,8.7
+2024-12-15,Tours & Activities,3456.15,,8.5
+2024-12-15,Events & Weddings,0.0,,
+2024-12-16,Hotel Rooms,8008.55,25,9.4
+2024-12-16,Spa & Wellness,3935.09,,9.3
+2024-12-16,Restaurant,6125.18,,9.3
+2024-12-16,Tours & Activities,4591.91,,9.6
+2024-12-16,Events & Weddings,0.0,,
+2024-12-17,Hotel Rooms,16693.86,52,8.2
+2024-12-17,Spa & Wellness,7655.18,,9.4
+2024-12-17,Restaurant,4055.27,,8.5
+2024-12-17,Tours & Activities,3986.47,,8.6
+2024-12-17,Events & Weddings,0.0,,
+2024-12-18,Hotel Rooms,20385.27,64,9.0
+2024-12-18,Spa & Wellness,4155.2,,8.4
+2024-12-18,Restaurant,6523.91,,8.2
+2024-12-18,Tours & Activities,4170.97,,8.5
+2024-12-18,Events & Weddings,0.0,,
+2024-12-19,Hotel Rooms,12263.36,38,9.2
+2024-12-19,Spa & Wellness,6646.54,,9.0
+2024-12-19,Restaurant,2823.46,,8.3
+2024-12-19,Tours & Activities,1668.99,,9.1
+2024-12-19,Events & Weddings,0.0,,
+2024-12-20,Hotel Rooms,20067.67,63,8.9
+2024-12-20,Spa & Wellness,5225.68,,8.6
+2024-12-20,Restaurant,8668.12,,8.4
+2024-12-20,Tours & Activities,3336.02,,8.6
+2024-12-20,Events & Weddings,0.0,,
+2024-12-21,Hotel Rooms,20167.27,63,8.3
+2024-12-21,Spa & Wellness,4859.97,,9.0
+2024-12-21,Restaurant,2716.23,,8.6
+2024-12-21,Tours & Activities,2239.34,,8.4
+2024-12-21,Events & Weddings,0.0,,
+2024-12-22,Hotel Rooms,6375.61,20,9.2
+2024-12-22,Spa & Wellness,2663.98,,8.7
+2024-12-22,Restaurant,6999.78,,8.9
+2024-12-22,Tours & Activities,4541.76,,9.3
+2024-12-22,Events & Weddings,11057.56,,8.2
+2024-12-23,Hotel Rooms,21218.89,66,9.4
+2024-12-23,Spa & Wellness,5314.4,,9.0
+2024-12-23,Restaurant,7039.12,,8.8
+2024-12-23,Tours & Activities,1489.49,,8.2
+2024-12-23,Events & Weddings,25453.13,,9.4
+2024-12-24,Hotel Rooms,21196.26,66,8.3
+2024-12-24,Spa & Wellness,7094.71,,8.5
+2024-12-24,Restaurant,6224.88,,8.9
+2024-12-24,Tours & Activities,2682.01,,8.6
+2024-12-24,Events & Weddings,0.0,,
+2024-12-25,Hotel Rooms,8982.16,28,8.9
+2024-12-25,Spa & Wellness,2255.43,,8.9
+2024-12-25,Restaurant,8364.98,,8.7
+2024-12-25,Tours & Activities,4091.36,,9.3
+2024-12-25,Events & Weddings,0.0,,
+2024-12-26,Hotel Rooms,8629.72,27,8.5
+2024-12-26,Spa & Wellness,5490.89,,9.3
+2024-12-26,Restaurant,6674.69,,8.4
+2024-12-26,Tours & Activities,4284.6,,8.9
+2024-12-26,Events & Weddings,21222.63,,9.5
+2024-12-27,Hotel Rooms,18199.13,57,9.1
+2024-12-27,Spa & Wellness,6652.2,,9.4
+2024-12-27,Restaurant,7650.79,,8.4
+2024-12-27,Tours & Activities,1522.46,,8.8
+2024-12-27,Events & Weddings,0.0,,
+2024-12-28,Hotel Rooms,8452.1,26,8.9
+2024-12-28,Spa & Wellness,4196.61,,8.8
+2024-12-28,Restaurant,3108.13,,9.4
+2024-12-28,Tours & Activities,1564.81,,9.4
+2024-12-28,Events & Weddings,0.0,,
+2024-12-29,Hotel Rooms,14489.85,45,8.8
+2024-12-29,Spa & Wellness,5172.35,,9.3
+2024-12-29,Restaurant,8297.17,,8.8
+2024-12-29,Tours & Activities,4441.72,,9.1
+2024-12-29,Events & Weddings,0.0,,
+2024-12-30,Hotel Rooms,8701.49,27,8.3
+2024-12-30,Spa & Wellness,2185.7,,9.5
+2024-12-30,Restaurant,4568.2,,9.2
+2024-12-30,Tours & Activities,3144.33,,8.4
+2024-12-30,Events & Weddings,0.0,,
+2024-12-31,Hotel Rooms,13390.6,42,8.9
+2024-12-31,Spa & Wellness,2551.69,,8.7
+2024-12-31,Restaurant,4159.53,,8.8
+2024-12-31,Tours & Activities,2438.06,,9.0
+2024-12-31,Events & Weddings,0.0,,
+2025-01-01,Hotel Rooms,7321.07,23,8.3
+2025-01-01,Spa & Wellness,5994.26,,8.6
+2025-01-01,Restaurant,7135.2,,9.1
+2025-01-01,Tours & Activities,4851.96,,9.4
+2025-01-01,Events & Weddings,0.0,,
+2025-01-02,Hotel Rooms,8548.21,27,8.7
+2025-01-02,Spa & Wellness,7910.99,,9.2
+2025-01-02,Restaurant,4895.72,,9.0
+2025-01-02,Tours & Activities,4986.51,,8.6
+2025-01-02,Events & Weddings,30329.62,,9.1
+2025-01-03,Hotel Rooms,23270.29,73,9.2
+2025-01-03,Spa & Wellness,7128.23,,8.9
+2025-01-03,Restaurant,7800.59,,8.8
+2025-01-03,Tours & Activities,2994.57,,8.7
+2025-01-03,Events & Weddings,0.0,,
+2025-01-04,Hotel Rooms,25546.54,80,8.9
+2025-01-04,Spa & Wellness,3541.0,,8.4
+2025-01-04,Restaurant,3269.62,,9.4
+2025-01-04,Tours & Activities,1687.22,,9.3
+2025-01-04,Events & Weddings,12913.55,,8.7
+2025-01-05,Hotel Rooms,18702.5,58,8.4
+2025-01-05,Spa & Wellness,3995.77,,8.4
+2025-01-05,Restaurant,7861.58,,9.3
+2025-01-05,Tours & Activities,4438.44,,8.4
+2025-01-05,Events & Weddings,0.0,,
+2025-01-06,Hotel Rooms,17240.9,54,8.5
+2025-01-06,Spa & Wellness,4442.82,,8.6
+2025-01-06,Restaurant,7302.62,,8.8
+2025-01-06,Tours & Activities,3269.55,,8.6
+2025-01-06,Events & Weddings,0.0,,
+2025-01-07,Hotel Rooms,19820.59,62,8.7
+2025-01-07,Spa & Wellness,7774.74,,9.6
+2025-01-07,Restaurant,5366.34,,8.6
+2025-01-07,Tours & Activities,2622.96,,8.9
+2025-01-07,Events & Weddings,30031.48,,8.4
+2025-01-08,Hotel Rooms,10312.55,32,9.1
+2025-01-08,Spa & Wellness,7291.02,,9.0
+2025-01-08,Restaurant,2942.48,,9.4
+2025-01-08,Tours & Activities,4617.46,,8.6
+2025-01-08,Events & Weddings,0.0,,
+2025-01-09,Hotel Rooms,20961.23,66,8.4
+2025-01-09,Spa & Wellness,4398.26,,9.5
+2025-01-09,Restaurant,3748.76,,8.8
+2025-01-09,Tours & Activities,2485.74,,8.2
+2025-01-09,Events & Weddings,0.0,,
+2025-01-10,Hotel Rooms,11896.04,37,9.6
+2025-01-10,Spa & Wellness,4700.88,,8.2
+2025-01-10,Restaurant,10069.03,,9.4
+2025-01-10,Tours & Activities,4439.55,,9.3
+2025-01-10,Events & Weddings,0.0,,
+2025-01-11,Hotel Rooms,23285.68,73,9.2
+2025-01-11,Spa & Wellness,2855.01,,9.2
+2025-01-11,Restaurant,6228.11,,8.2
+2025-01-11,Tours & Activities,1577.32,,8.6
+2025-01-11,Events & Weddings,0.0,,
+2025-01-12,Hotel Rooms,18067.57,56,8.9
+2025-01-12,Spa & Wellness,2236.61,,8.6
+2025-01-12,Restaurant,4282.77,,8.3
+2025-01-12,Tours & Activities,2784.26,,9.3
+2025-01-12,Events & Weddings,0.0,,
+2025-01-13,Hotel Rooms,20958.64,65,9.0
+2025-01-13,Spa & Wellness,1608.88,,8.9
+2025-01-13,Restaurant,3883.08,,8.4
+2025-01-13,Tours & Activities,2824.27,,9.1
+2025-01-13,Events & Weddings,0.0,,
+2025-01-14,Hotel Rooms,17046.03,53,8.3
+2025-01-14,Spa & Wellness,7957.09,,8.3
+2025-01-14,Restaurant,5800.9,,8.9
+2025-01-14,Tours & Activities,5200.41,,9.0
+2025-01-14,Events & Weddings,0.0,,
+2025-01-15,Hotel Rooms,16579.65,52,9.6
+2025-01-15,Spa & Wellness,3180.43,,8.2
+2025-01-15,Restaurant,7572.51,,8.7
+2025-01-15,Tours & Activities,4115.0,,9.1
+2025-01-15,Events & Weddings,18312.97,,8.3
+2025-01-16,Hotel Rooms,15122.72,47,9.3
+2025-01-16,Spa & Wellness,2659.97,,9.3
+2025-01-16,Restaurant,5386.2,,9.2
+2025-01-16,Tours & Activities,3684.88,,9.3
+2025-01-16,Events & Weddings,21441.99,,8.6
+2025-01-17,Hotel Rooms,8214.99,26,8.5
+2025-01-17,Spa & Wellness,2097.6,,9.5
+2025-01-17,Restaurant,6760.03,,9.6
+2025-01-17,Tours & Activities,3903.3,,8.6
+2025-01-17,Events & Weddings,0.0,,
+2025-01-18,Hotel Rooms,14219.98,44,9.3
+2025-01-18,Spa & Wellness,8538.38,,8.7
+2025-01-18,Restaurant,3646.44,,8.7
+2025-01-18,Tours & Activities,5640.77,,9.2
+2025-01-18,Events & Weddings,0.0,,
+2025-01-19,Hotel Rooms,22073.01,69,8.9
+2025-01-19,Spa & Wellness,4796.09,,9.5
+2025-01-19,Restaurant,5755.11,,9.3
+2025-01-19,Tours & Activities,4090.1,,8.3
+2025-01-19,Events & Weddings,23636.86,,8.6
+2025-01-20,Hotel Rooms,7551.12,24,9.1
+2025-01-20,Spa & Wellness,3530.54,,9.0
+2025-01-20,Restaurant,5126.28,,9.2
+2025-01-20,Tours & Activities,2494.07,,8.3
+2025-01-20,Events & Weddings,0.0,,
+2025-01-21,Hotel Rooms,22469.95,70,8.6
+2025-01-21,Spa & Wellness,7992.68,,9.5
+2025-01-21,Restaurant,2756.53,,9.1
+2025-01-21,Tours & Activities,2544.07,,9.3
+2025-01-21,Events & Weddings,13569.49,,9.1
+2025-01-22,Hotel Rooms,18946.32,59,8.2
+2025-01-22,Spa & Wellness,1945.42,,9.3
+2025-01-22,Restaurant,4722.72,,8.7
+2025-01-22,Tours & Activities,3410.79,,9.0
+2025-01-22,Events & Weddings,19300.33,,9.3
+2025-01-23,Hotel Rooms,15576.23,49,8.9
+2025-01-23,Spa & Wellness,4136.98,,9.1
+2025-01-23,Restaurant,3934.88,,8.4
+2025-01-23,Tours & Activities,4126.62,,8.9
+2025-01-23,Events & Weddings,0.0,,
+2025-01-24,Hotel Rooms,12394.57,39,8.6
+2025-01-24,Spa & Wellness,5258.74,,9.6
+2025-01-24,Restaurant,4929.62,,9.5
+2025-01-24,Tours & Activities,3643.37,,8.4
+2025-01-24,Events & Weddings,0.0,,
+2025-01-25,Hotel Rooms,24607.17,77,8.8
+2025-01-25,Spa & Wellness,2456.3,,9.2
+2025-01-25,Restaurant,9389.58,,8.6
+2025-01-25,Tours & Activities,2922.34,,8.3
+2025-01-25,Events & Weddings,36915.18,,9.2
+2025-01-26,Hotel Rooms,21319.02,67,9.1
+2025-01-26,Spa & Wellness,6758.24,,8.9
+2025-01-26,Restaurant,3069.2,,8.5
+2025-01-26,Tours & Activities,1590.23,,9.3
+2025-01-26,Events & Weddings,0.0,,
+2025-01-27,Hotel Rooms,12244.81,38,9.3
+2025-01-27,Spa & Wellness,5154.66,,9.1
+2025-01-27,Restaurant,2831.95,,8.6
+2025-01-27,Tours & Activities,5248.28,,9.2
+2025-01-27,Events & Weddings,30583.48,,8.3
+2025-01-28,Hotel Rooms,22051.17,69,9.1
+2025-01-28,Spa & Wellness,4481.08,,9.2
+2025-01-28,Restaurant,4575.47,,9.4
+2025-01-28,Tours & Activities,4316.12,,9.1
+2025-01-28,Events & Weddings,20815.46,,9.5
+2025-01-29,Hotel Rooms,7150.46,22,8.4
+2025-01-29,Spa & Wellness,2513.73,,8.4
+2025-01-29,Restaurant,4427.96,,9.2
+2025-01-29,Tours & Activities,2470.6,,9.5
+2025-01-29,Events & Weddings,16265.13,,9.1
+2025-01-30,Hotel Rooms,15201.17,48,8.4
+2025-01-30,Spa & Wellness,3506.21,,8.9
+2025-01-30,Restaurant,5642.37,,8.4
+2025-01-30,Tours & Activities,5001.83,,8.4
+2025-01-30,Events & Weddings,25128.47,,9.4
+2025-01-31,Hotel Rooms,18182.38,57,9.4
+2025-01-31,Spa & Wellness,1991.81,,8.3
+2025-01-31,Restaurant,7764.18,,9.0
+2025-01-31,Tours & Activities,4445.42,,9.3
+2025-01-31,Events & Weddings,0.0,,
+2025-02-01,Hotel Rooms,13539.9,42,9.1
+2025-02-01,Spa & Wellness,3227.61,,9.5
+2025-02-01,Restaurant,5201.32,,9.3
+2025-02-01,Tours & Activities,3692.18,,8.6
+2025-02-01,Events & Weddings,0.0,,
+2025-02-02,Hotel Rooms,10714.87,33,8.9
+2025-02-02,Spa & Wellness,2281.32,,9.0
+2025-02-02,Restaurant,3487.95,,9.2
+2025-02-02,Tours & Activities,3296.28,,9.4
+2025-02-02,Events & Weddings,0.0,,
+2025-02-03,Hotel Rooms,9817.02,31,9.0
+2025-02-03,Spa & Wellness,2891.31,,8.9
+2025-02-03,Restaurant,3244.35,,8.5
+2025-02-03,Tours & Activities,1129.16,,8.6
+2025-02-03,Events & Weddings,0.0,,
+2025-02-04,Hotel Rooms,8227.51,26,9.4
+2025-02-04,Spa & Wellness,2046.41,,8.7
+2025-02-04,Restaurant,4919.51,,8.6
+2025-02-04,Tours & Activities,3394.61,,8.9
+2025-02-04,Events & Weddings,0.0,,
+2025-02-05,Hotel Rooms,9011.03,28,8.2
+2025-02-05,Spa & Wellness,6209.73,,8.9
+2025-02-05,Restaurant,7020.11,,8.5
+2025-02-05,Tours & Activities,1999.84,,8.3
+2025-02-05,Events & Weddings,21085.2,,8.9
+2025-02-06,Hotel Rooms,11976.98,37,9.4
+2025-02-06,Spa & Wellness,3483.92,,9.4
+2025-02-06,Restaurant,5728.54,,9.3
+2025-02-06,Tours & Activities,2044.19,,8.8
+2025-02-06,Events & Weddings,0.0,,
+2025-02-07,Hotel Rooms,14386.44,45,8.3
+2025-02-07,Spa & Wellness,4569.61,,9.3
+2025-02-07,Restaurant,3906.38,,9.6
+2025-02-07,Tours & Activities,3673.76,,8.4
+2025-02-07,Events & Weddings,0.0,,
+2025-02-08,Hotel Rooms,18093.72,57,8.7
+2025-02-08,Spa & Wellness,7288.18,,9.3
+2025-02-08,Restaurant,3392.4,,8.9
+2025-02-08,Tours & Activities,2950.31,,8.3
+2025-02-08,Events & Weddings,0.0,,
+2025-02-09,Hotel Rooms,11158.67,35,8.8
+2025-02-09,Spa & Wellness,4413.18,,8.9
+2025-02-09,Restaurant,3571.02,,9.1
+2025-02-09,Tours & Activities,1352.51,,9.6
+2025-02-09,Events & Weddings,0.0,,
+2025-02-10,Hotel Rooms,9372.85,29,9.4
+2025-02-10,Spa & Wellness,4021.4,,9.2
+2025-02-10,Restaurant,3418.87,,9.3
+2025-02-10,Tours & Activities,2052.42,,9.1
+2025-02-10,Events & Weddings,0.0,,
+2025-02-11,Hotel Rooms,15357.81,48,9.2
+2025-02-11,Spa & Wellness,4846.63,,8.2
+2025-02-11,Restaurant,4362.79,,9.6
+2025-02-11,Tours & Activities,3461.87,,9.3
+2025-02-11,Events & Weddings,19670.47,,8.4
+2025-02-12,Hotel Rooms,13177.33,41,9.1
+2025-02-12,Spa & Wellness,5658.19,,8.4
+2025-02-12,Restaurant,5475.93,,8.2
+2025-02-12,Tours & Activities,4023.9,,8.4
+2025-02-12,Events & Weddings,0.0,,
+2025-02-13,Hotel Rooms,6968.61,22,9.2
+2025-02-13,Spa & Wellness,3375.0,,9.3
+2025-02-13,Restaurant,6770.81,,9.4
+2025-02-13,Tours & Activities,3301.85,,8.3
+2025-02-13,Events & Weddings,0.0,,
+2025-02-14,Hotel Rooms,10886.26,34,9.1
+2025-02-14,Spa & Wellness,4702.33,,8.6
+2025-02-14,Restaurant,3227.52,,9.5
+2025-02-14,Tours & Activities,2317.42,,8.7
+2025-02-14,Events & Weddings,24622.09,,9.2
+2025-02-15,Hotel Rooms,15258.57,48,8.5
+2025-02-15,Spa & Wellness,2957.73,,9.0
+2025-02-15,Restaurant,3556.85,,9.6
+2025-02-15,Tours & Activities,2138.03,,8.6
+2025-02-15,Events & Weddings,16922.16,,8.7
+2025-02-16,Hotel Rooms,17138.1,54,9.3
+2025-02-16,Spa & Wellness,2649.32,,8.4
+2025-02-16,Restaurant,5453.76,,8.7
+2025-02-16,Tours & Activities,4132.55,,9.3
+2025-02-16,Events & Weddings,13809.05,,8.6
+2025-02-17,Hotel Rooms,14283.84,45,8.7
+2025-02-17,Spa & Wellness,3544.59,,8.6
+2025-02-17,Restaurant,4387.03,,8.5
+2025-02-17,Tours & Activities,2631.16,,9.5
+2025-02-17,Events & Weddings,0.0,,
+2025-02-18,Hotel Rooms,13003.8,41,9.0
+2025-02-18,Spa & Wellness,2485.03,,9.1
+2025-02-18,Restaurant,4667.62,,9.1
+2025-02-18,Tours & Activities,978.47,,8.8
+2025-02-18,Events & Weddings,0.0,,
+2025-02-19,Hotel Rooms,15019.96,47,8.2
+2025-02-19,Spa & Wellness,4116.87,,9.5
+2025-02-19,Restaurant,3997.3,,9.5
+2025-02-19,Tours & Activities,3786.56,,8.9
+2025-02-19,Events & Weddings,14423.35,,9.1
+2025-02-20,Hotel Rooms,16803.18,53,8.3
+2025-02-20,Spa & Wellness,4242.91,,8.9
+2025-02-20,Restaurant,5704.84,,9.5
+2025-02-20,Tours & Activities,3904.98,,8.4
+2025-02-20,Events & Weddings,0.0,,
+2025-02-21,Hotel Rooms,20007.2,63,9.6
+2025-02-21,Spa & Wellness,3898.8,,8.9
+2025-02-21,Restaurant,8092.07,,9.5
+2025-02-21,Tours & Activities,4659.27,,9.4
+2025-02-21,Events & Weddings,0.0,,
+2025-02-22,Hotel Rooms,7545.99,24,9.6
+2025-02-22,Spa & Wellness,3195.65,,9.6
+2025-02-22,Restaurant,5585.91,,8.9
+2025-02-22,Tours & Activities,4709.5,,9.4
+2025-02-22,Events & Weddings,0.0,,
+2025-02-23,Hotel Rooms,6464.41,20,8.4
+2025-02-23,Spa & Wellness,3632.25,,8.6
+2025-02-23,Restaurant,2805.47,,9.2
+2025-02-23,Tours & Activities,3488.61,,9.0
+2025-02-23,Events & Weddings,0.0,,
+2025-02-24,Hotel Rooms,16129.9,50,9.5
+2025-02-24,Spa & Wellness,5583.05,,8.9
+2025-02-24,Restaurant,2268.38,,9.1
+2025-02-24,Tours & Activities,1428.26,,8.4
+2025-02-24,Events & Weddings,0.0,,
+2025-02-25,Hotel Rooms,8390.21,26,8.5
+2025-02-25,Spa & Wellness,5194.91,,9.5
+2025-02-25,Restaurant,3430.51,,9.2
+2025-02-25,Tours & Activities,838.88,,9.1
+2025-02-25,Events & Weddings,0.0,,
+2025-02-26,Hotel Rooms,6536.92,20,8.6
+2025-02-26,Spa & Wellness,3348.71,,8.9
+2025-02-26,Restaurant,6633.64,,9.2
+2025-02-26,Tours & Activities,1857.33,,8.4
+2025-02-26,Events & Weddings,0.0,,
+2025-02-27,Hotel Rooms,12990.13,41,8.5
+2025-02-27,Spa & Wellness,1907.91,,8.4
+2025-02-27,Restaurant,5837.77,,9.0
+2025-02-27,Tours & Activities,2213.88,,9.0
+2025-02-27,Events & Weddings,0.0,,
+2025-02-28,Hotel Rooms,16087.21,50,8.5
+2025-02-28,Spa & Wellness,2963.65,,9.3
+2025-02-28,Restaurant,7687.62,,8.3
+2025-02-28,Tours & Activities,2736.35,,9.2
+2025-02-28,Events & Weddings,0.0,,
+2025-03-01,Hotel Rooms,6505.0,20,9.0
+2025-03-01,Spa & Wellness,4348.45,,9.0
+2025-03-01,Restaurant,2924.92,,8.7
+2025-03-01,Tours & Activities,2880.03,,8.4
+2025-03-01,Events & Weddings,0.0,,
+2025-03-02,Hotel Rooms,5873.13,18,8.9
+2025-03-02,Spa & Wellness,5211.76,,8.8
+2025-03-02,Restaurant,4342.96,,8.8
+2025-03-02,Tours & Activities,946.49,,8.8
+2025-03-02,Events & Weddings,15123.03,,9.3
+2025-03-03,Hotel Rooms,13960.69,44,9.0
+2025-03-03,Spa & Wellness,1368.03,,8.7
+2025-03-03,Restaurant,2037.09,,9.6
+2025-03-03,Tours & Activities,3778.7,,8.3
+2025-03-03,Events & Weddings,0.0,,
+2025-03-04,Hotel Rooms,9799.51,31,9.3
+2025-03-04,Spa & Wellness,4995.94,,9.6
+2025-03-04,Restaurant,5023.37,,8.8
+2025-03-04,Tours & Activities,3966.93,,8.7
+2025-03-04,Events & Weddings,14737.27,,9.2
+2025-03-05,Hotel Rooms,12923.14,40,9.0
+2025-03-05,Spa & Wellness,4430.54,,8.7
+2025-03-05,Restaurant,2625.57,,9.0
+2025-03-05,Tours & Activities,2468.16,,9.2
+2025-03-05,Events & Weddings,0.0,,
+2025-03-06,Hotel Rooms,5030.78,16,8.6
+2025-03-06,Spa & Wellness,4531.07,,9.0
+2025-03-06,Restaurant,4438.82,,9.4
+2025-03-06,Tours & Activities,1559.46,,8.7
+2025-03-06,Events & Weddings,21375.45,,8.4
+2025-03-07,Hotel Rooms,17401.53,54,8.8
+2025-03-07,Spa & Wellness,5896.55,,9.4
+2025-03-07,Restaurant,2112.51,,8.5
+2025-03-07,Tours & Activities,1281.36,,8.2
+2025-03-07,Events & Weddings,10059.32,,9.2
+2025-03-08,Hotel Rooms,11467.21,36,8.5
+2025-03-08,Spa & Wellness,2636.06,,9.4
+2025-03-08,Restaurant,2359.48,,8.9
+2025-03-08,Tours & Activities,1999.3,,9.3
+2025-03-08,Events & Weddings,0.0,,
+2025-03-09,Hotel Rooms,12134.28,38,9.1
+2025-03-09,Spa & Wellness,2754.55,,8.6
+2025-03-09,Restaurant,2444.93,,9.1
+2025-03-09,Tours & Activities,1473.97,,8.6
+2025-03-09,Events & Weddings,24314.56,,9.5
+2025-03-10,Hotel Rooms,12481.02,39,8.8
+2025-03-10,Spa & Wellness,3635.45,,9.6
+2025-03-10,Restaurant,6540.34,,9.1
+2025-03-10,Tours & Activities,3298.15,,8.6
+2025-03-10,Events & Weddings,0.0,,
+2025-03-11,Hotel Rooms,9399.28,29,9.3
+2025-03-11,Spa & Wellness,3524.17,,9.4
+2025-03-11,Restaurant,3252.78,,9.2
+2025-03-11,Tours & Activities,3362.66,,9.5
+2025-03-11,Events & Weddings,18188.45,,8.4
+2025-03-12,Hotel Rooms,7749.3,24,8.5
+2025-03-12,Spa & Wellness,4396.16,,9.5
+2025-03-12,Restaurant,6055.79,,8.3
+2025-03-12,Tours & Activities,3100.41,,8.5
+2025-03-12,Events & Weddings,0.0,,
+2025-03-13,Hotel Rooms,12196.09,38,9.4
+2025-03-13,Spa & Wellness,2087.4,,9.3
+2025-03-13,Restaurant,5425.69,,9.0
+2025-03-13,Tours & Activities,2308.44,,9.4
+2025-03-13,Events & Weddings,7891.34,,9.5
+2025-03-14,Hotel Rooms,19625.36,61,8.4
+2025-03-14,Spa & Wellness,7283.96,,8.9
+2025-03-14,Restaurant,3486.31,,9.0
+2025-03-14,Tours & Activities,1676.28,,9.5
+2025-03-14,Events & Weddings,17502.44,,8.9
+2025-03-15,Hotel Rooms,10840.49,34,8.6
+2025-03-15,Spa & Wellness,4392.0,,8.9
+2025-03-15,Restaurant,2614.72,,9.6
+2025-03-15,Tours & Activities,2686.22,,9.4
+2025-03-15,Events & Weddings,0.0,,
+2025-03-16,Hotel Rooms,9862.04,31,9.0
+2025-03-16,Spa & Wellness,2254.12,,8.4
+2025-03-16,Restaurant,3047.77,,9.5
+2025-03-16,Tours & Activities,2630.63,,8.8
+2025-03-16,Events & Weddings,0.0,,
+2025-03-17,Hotel Rooms,9441.02,30,9.4
+2025-03-17,Spa & Wellness,3653.98,,9.1
+2025-03-17,Restaurant,5223.26,,8.6
+2025-03-17,Tours & Activities,3413.74,,9.6
+2025-03-17,Events & Weddings,0.0,,
+2025-03-18,Hotel Rooms,6827.69,21,9.3
+2025-03-18,Spa & Wellness,1992.25,,9.2
+2025-03-18,Restaurant,4215.06,,9.5
+2025-03-18,Tours & Activities,2511.1,,9.1
+2025-03-18,Events & Weddings,0.0,,
+2025-03-19,Hotel Rooms,15206.71,48,9.5
+2025-03-19,Spa & Wellness,4504.47,,9.3
+2025-03-19,Restaurant,3825.57,,9.4
+2025-03-19,Tours & Activities,1507.53,,9.2
+2025-03-19,Events & Weddings,0.0,,
+2025-03-20,Hotel Rooms,9359.03,29,9.1
+2025-03-20,Spa & Wellness,4497.11,,9.1
+2025-03-20,Restaurant,4188.84,,8.9
+2025-03-20,Tours & Activities,781.36,,9.0
+2025-03-20,Events & Weddings,0.0,,
+2025-03-21,Hotel Rooms,9608.8,30,9.6
+2025-03-21,Spa & Wellness,1447.05,,9.3
+2025-03-21,Restaurant,6097.99,,9.3
+2025-03-21,Tours & Activities,4364.31,,8.3
+2025-03-21,Events & Weddings,0.0,,
+2025-03-22,Hotel Rooms,8402.03,26,8.9
+2025-03-22,Spa & Wellness,6188.63,,8.6
+2025-03-22,Restaurant,4420.37,,8.7
+2025-03-22,Tours & Activities,2444.33,,9.0
+2025-03-22,Events & Weddings,0.0,,
+2025-03-23,Hotel Rooms,13197.91,41,9.4
+2025-03-23,Spa & Wellness,4431.56,,9.4
+2025-03-23,Restaurant,5606.68,,8.3
+2025-03-23,Tours & Activities,1985.02,,9.0
+2025-03-23,Events & Weddings,0.0,,
+2025-03-24,Hotel Rooms,6866.59,21,8.9
+2025-03-24,Spa & Wellness,3324.74,,9.3
+2025-03-24,Restaurant,4612.84,,9.4
+2025-03-24,Tours & Activities,1068.02,,8.9
+2025-03-24,Events & Weddings,0.0,,
+2025-03-25,Hotel Rooms,15471.24,48,9.4
+2025-03-25,Spa & Wellness,3534.14,,8.3
+2025-03-25,Restaurant,2091.41,,9.5
+2025-03-25,Tours & Activities,3664.78,,9.0
+2025-03-25,Events & Weddings,13575.21,,9.5
+2025-03-26,Hotel Rooms,11999.9,37,9.3
+2025-03-26,Spa & Wellness,4728.5,,8.8
+2025-03-26,Restaurant,2104.69,,8.4
+2025-03-26,Tours & Activities,1536.73,,9.4
+2025-03-26,Events & Weddings,13902.87,,9.3
+2025-03-27,Hotel Rooms,6478.39,20,9.6
+2025-03-27,Spa & Wellness,4786.16,,8.9
+2025-03-27,Restaurant,6708.28,,8.3
+2025-03-27,Tours & Activities,2171.8,,9.4
+2025-03-27,Events & Weddings,25742.31,,8.8
+2025-03-28,Hotel Rooms,16878.02,53,8.2
+2025-03-28,Spa & Wellness,2969.12,,9.6
+2025-03-28,Restaurant,4987.62,,8.7
+2025-03-28,Tours & Activities,4483.87,,8.8
+2025-03-28,Events & Weddings,0.0,,
+2025-03-29,Hotel Rooms,6853.82,21,9.1
+2025-03-29,Spa & Wellness,6086.69,,9.2
+2025-03-29,Restaurant,2514.41,,8.4
+2025-03-29,Tours & Activities,3609.29,,9.1
+2025-03-29,Events & Weddings,0.0,,
+2025-03-30,Hotel Rooms,6065.9,19,8.2
+2025-03-30,Spa & Wellness,2692.13,,8.7
+2025-03-30,Restaurant,3093.9,,8.4
+2025-03-30,Tours & Activities,1365.28,,8.8
+2025-03-30,Events & Weddings,0.0,,
+2025-03-31,Hotel Rooms,5074.33,16,8.7
+2025-03-31,Spa & Wellness,1608.58,,9.0
+2025-03-31,Restaurant,3374.33,,8.7
+2025-03-31,Tours & Activities,1702.67,,8.7
+2025-03-31,Events & Weddings,24798.94,,9.6
+2025-04-01,Hotel Rooms,11813.71,37,8.4
+2025-04-01,Spa & Wellness,3056.99,,8.4
+2025-04-01,Restaurant,3254.8,,8.9
+2025-04-01,Tours & Activities,964.35,,8.8
+2025-04-01,Events & Weddings,0.0,,
+2025-04-02,Hotel Rooms,5699.98,18,8.6
+2025-04-02,Spa & Wellness,2381.58,,9.1
+2025-04-02,Restaurant,4756.23,,8.5
+2025-04-02,Tours & Activities,1105.52,,8.6
+2025-04-02,Events & Weddings,0.0,,
+2025-04-03,Hotel Rooms,12409.37,39,9.3
+2025-04-03,Spa & Wellness,2799.24,,8.7
+2025-04-03,Restaurant,5893.39,,9.4
+2025-04-03,Tours & Activities,3906.75,,8.4
+2025-04-03,Events & Weddings,11416.18,,8.6
+2025-04-04,Hotel Rooms,19661.75,61,9.6
+2025-04-04,Spa & Wellness,3076.78,,9.2
+2025-04-04,Restaurant,4990.06,,9.0
+2025-04-04,Tours & Activities,1820.78,,8.7
+2025-04-04,Events & Weddings,0.0,,
+2025-04-05,Hotel Rooms,7264.69,23,9.0
+2025-04-05,Spa & Wellness,4863.8,,9.0
+2025-04-05,Restaurant,6144.48,,9.0
+2025-04-05,Tours & Activities,4529.08,,8.8
+2025-04-05,Events & Weddings,0.0,,
+2025-04-06,Hotel Rooms,8347.94,26,9.2
+2025-04-06,Spa & Wellness,5263.49,,9.3
+2025-04-06,Restaurant,3808.9,,8.9
+2025-04-06,Tours & Activities,2805.68,,8.5
+2025-04-06,Events & Weddings,22592.46,,8.3
+2025-04-07,Hotel Rooms,16985.15,53,8.9
+2025-04-07,Spa & Wellness,3158.05,,8.9
+2025-04-07,Restaurant,6431.61,,9.2
+2025-04-07,Tours & Activities,2515.97,,9.3
+2025-04-07,Events & Weddings,17801.21,,9.1
+2025-04-08,Hotel Rooms,5799.53,18,9.3
+2025-04-08,Spa & Wellness,4451.02,,8.7
+2025-04-08,Restaurant,5029.11,,8.3
+2025-04-08,Tours & Activities,3937.05,,9.1
+2025-04-08,Events & Weddings,25948.62,,8.8
+2025-04-09,Hotel Rooms,4880.26,15,8.6
+2025-04-09,Spa & Wellness,3711.25,,8.9
+2025-04-09,Restaurant,4688.06,,9.0
+2025-04-09,Tours & Activities,2199.86,,8.7
+2025-04-09,Events & Weddings,0.0,,
+2025-04-10,Hotel Rooms,10930.75,34,8.7
+2025-04-10,Spa & Wellness,1263.67,,8.3
+2025-04-10,Restaurant,3843.95,,9.5
+2025-04-10,Tours & Activities,1134.9,,9.5
+2025-04-10,Events & Weddings,0.0,,
+2025-04-11,Hotel Rooms,12240.56,38,8.5
+2025-04-11,Spa & Wellness,4214.41,,8.9
+2025-04-11,Restaurant,4670.19,,9.2
+2025-04-11,Tours & Activities,2112.29,,8.6
+2025-04-11,Events & Weddings,0.0,,
+2025-04-12,Hotel Rooms,17980.1,56,9.1
+2025-04-12,Spa & Wellness,5368.29,,8.4
+2025-04-12,Restaurant,7973.74,,8.5
+2025-04-12,Tours & Activities,1561.71,,8.4
+2025-04-12,Events & Weddings,14166.2,,8.8
+2025-04-13,Hotel Rooms,7027.98,22,9.1
+2025-04-13,Spa & Wellness,3315.8,,8.2
+2025-04-13,Restaurant,4860.37,,8.5
+2025-04-13,Tours & Activities,2672.82,,8.7
+2025-04-13,Events & Weddings,0.0,,
+2025-04-14,Hotel Rooms,14041.22,44,9.3
+2025-04-14,Spa & Wellness,1455.01,,8.3
+2025-04-14,Restaurant,6183.25,,8.5
+2025-04-14,Tours & Activities,1812.93,,8.8
+2025-04-14,Events & Weddings,17626.59,,9.1
+2025-04-15,Hotel Rooms,12122.59,38,9.1
+2025-04-15,Spa & Wellness,4095.57,,8.7
+2025-04-15,Restaurant,6047.51,,9.1
+2025-04-15,Tours & Activities,3388.37,,9.2
+2025-04-15,Events & Weddings,0.0,,
+2025-04-16,Hotel Rooms,5796.69,18,8.4
+2025-04-16,Spa & Wellness,1733.43,,8.6
+2025-04-16,Restaurant,2649.02,,9.2
+2025-04-16,Tours & Activities,2409.96,,8.8
+2025-04-16,Events & Weddings,0.0,,
+2025-04-17,Hotel Rooms,7044.06,22,9.1
+2025-04-17,Spa & Wellness,4631.43,,9.1
+2025-04-17,Restaurant,6839.48,,9.0
+2025-04-17,Tours & Activities,2341.54,,8.4
+2025-04-17,Events & Weddings,0.0,,
+2025-04-18,Hotel Rooms,6386.28,20,8.7
+2025-04-18,Spa & Wellness,1402.14,,8.4
+2025-04-18,Restaurant,6952.63,,9.5
+2025-04-18,Tours & Activities,2823.23,,8.9
+2025-04-18,Events & Weddings,0.0,,
+2025-04-19,Hotel Rooms,17844.74,56,8.9
+2025-04-19,Spa & Wellness,1836.37,,8.2
+2025-04-19,Restaurant,6624.78,,8.6
+2025-04-19,Tours & Activities,1944.37,,9.0
+2025-04-19,Events & Weddings,0.0,,
+2025-04-20,Hotel Rooms,13920.1,44,9.3
+2025-04-20,Spa & Wellness,3907.87,,8.4
+2025-04-20,Restaurant,2295.88,,9.3
+2025-04-20,Tours & Activities,3419.2,,8.7
+2025-04-20,Events & Weddings,0.0,,
+2025-04-21,Hotel Rooms,13629.41,43,9.0
+2025-04-21,Spa & Wellness,6123.52,,8.3
+2025-04-21,Restaurant,5968.26,,9.3
+2025-04-21,Tours & Activities,1721.6,,9.6
+2025-04-21,Events & Weddings,0.0,,
+2025-04-22,Hotel Rooms,14836.6,46,8.8
+2025-04-22,Spa & Wellness,6144.58,,9.3
+2025-04-22,Restaurant,2925.53,,9.3
+2025-04-22,Tours & Activities,2658.99,,8.7
+2025-04-22,Events & Weddings,0.0,,
+2025-04-23,Hotel Rooms,6799.87,21,8.4
+2025-04-23,Spa & Wellness,2180.33,,8.5
+2025-04-23,Restaurant,2014.51,,8.7
+2025-04-23,Tours & Activities,1667.9,,9.0
+2025-04-23,Events & Weddings,13097.33,,8.6
+2025-04-24,Hotel Rooms,15346.51,48,9.6
+2025-04-24,Spa & Wellness,4560.27,,8.3
+2025-04-24,Restaurant,6649.02,,9.3
+2025-04-24,Tours & Activities,3727.62,,9.6
+2025-04-24,Events & Weddings,0.0,,
+2025-04-25,Hotel Rooms,18226.37,57,8.5
+2025-04-25,Spa & Wellness,5571.81,,9.4
+2025-04-25,Restaurant,6627.3,,9.1
+2025-04-25,Tours & Activities,2762.32,,9.0
+2025-04-25,Events & Weddings,0.0,,
+2025-04-26,Hotel Rooms,12191.88,38,9.1
+2025-04-26,Spa & Wellness,6574.29,,8.3
+2025-04-26,Restaurant,5139.01,,8.6
+2025-04-26,Tours & Activities,4465.55,,8.7
+2025-04-26,Events & Weddings,0.0,,
+2025-04-27,Hotel Rooms,4780.54,15,9.3
+2025-04-27,Spa & Wellness,4829.27,,9.2
+2025-04-27,Restaurant,4061.84,,9.1
+2025-04-27,Tours & Activities,1917.06,,8.3
+2025-04-27,Events & Weddings,0.0,,
+2025-04-28,Hotel Rooms,10056.09,31,8.5
+2025-04-28,Spa & Wellness,2492.08,,9.4
+2025-04-28,Restaurant,3442.68,,9.0
+2025-04-28,Tours & Activities,2588.64,,8.9
+2025-04-28,Events & Weddings,0.0,,
+2025-04-29,Hotel Rooms,5347.85,17,8.3
+2025-04-29,Spa & Wellness,5086.88,,8.8
+2025-04-29,Restaurant,2347.34,,9.4
+2025-04-29,Tours & Activities,2185.35,,8.2
+2025-04-29,Events & Weddings,0.0,,
+2025-04-30,Hotel Rooms,13254.11,41,8.4
+2025-04-30,Spa & Wellness,4412.74,,8.4
+2025-04-30,Restaurant,6494.88,,8.6
+2025-04-30,Tours & Activities,2874.32,,8.6
+2025-04-30,Events & Weddings,10744.98,,8.8
+2025-05-01,Hotel Rooms,8523.04,27,9.2
+2025-05-01,Spa & Wellness,2318.91,,9.1
+2025-05-01,Restaurant,5319.97,,8.2
+2025-05-01,Tours & Activities,2300.09,,8.4
+2025-05-01,Events & Weddings,0.0,,
+2025-05-02,Hotel Rooms,5740.34,18,9.2
+2025-05-02,Spa & Wellness,6199.89,,9.6
+2025-05-02,Restaurant,4574.24,,8.4
+2025-05-02,Tours & Activities,1166.76,,8.7
+2025-05-02,Events & Weddings,0.0,,
+2025-05-03,Hotel Rooms,10171.47,32,9.4
+2025-05-03,Spa & Wellness,2159.93,,9.3
+2025-05-03,Restaurant,6576.97,,8.4
+2025-05-03,Tours & Activities,4681.29,,8.4
+2025-05-03,Events & Weddings,0.0,,
+2025-05-04,Hotel Rooms,12777.75,40,8.8
+2025-05-04,Spa & Wellness,4777.45,,9.1
+2025-05-04,Restaurant,2486.55,,8.8
+2025-05-04,Tours & Activities,2977.61,,9.4
+2025-05-04,Events & Weddings,0.0,,
+2025-05-05,Hotel Rooms,14042.7,44,9.0
+2025-05-05,Spa & Wellness,3073.6,,9.5
+2025-05-05,Restaurant,3323.4,,8.4
+2025-05-05,Tours & Activities,1654.61,,8.3
+2025-05-05,Events & Weddings,0.0,,
+2025-05-06,Hotel Rooms,12253.77,38,9.3
+2025-05-06,Spa & Wellness,4616.55,,9.4
+2025-05-06,Restaurant,5087.62,,8.6
+2025-05-06,Tours & Activities,2432.33,,8.9
+2025-05-06,Events & Weddings,0.0,,
+2025-05-07,Hotel Rooms,5423.93,17,9.5
+2025-05-07,Spa & Wellness,5946.77,,8.9
+2025-05-07,Restaurant,2288.37,,8.9
+2025-05-07,Tours & Activities,2678.39,,8.9
+2025-05-07,Events & Weddings,25344.56,,8.4
+2025-05-08,Hotel Rooms,15381.05,48,9.0
+2025-05-08,Spa & Wellness,2979.85,,9.2
+2025-05-08,Restaurant,5622.78,,9.5
+2025-05-08,Tours & Activities,3248.29,,8.2
+2025-05-08,Events & Weddings,0.0,,
+2025-05-09,Hotel Rooms,6185.4,19,8.3
+2025-05-09,Spa & Wellness,6034.61,,8.9
+2025-05-09,Restaurant,5822.79,,8.9
+2025-05-09,Tours & Activities,2480.18,,9.2
+2025-05-09,Events & Weddings,0.0,,
+2025-05-10,Hotel Rooms,14582.65,46,8.6
+2025-05-10,Spa & Wellness,3186.45,,8.9
+2025-05-10,Restaurant,3247.84,,9.3
+2025-05-10,Tours & Activities,2941.2,,8.7
+2025-05-10,Events & Weddings,24237.27,,8.3
+2025-05-11,Hotel Rooms,13378.65,42,9.2
+2025-05-11,Spa & Wellness,5401.97,,8.3
+2025-05-11,Restaurant,2152.27,,8.8
+2025-05-11,Tours & Activities,2224.39,,9.1
+2025-05-11,Events & Weddings,21672.51,,8.4
+2025-05-12,Hotel Rooms,13492.57,42,9.2
+2025-05-12,Spa & Wellness,1964.9,,9.5
+2025-05-12,Restaurant,4393.02,,9.3
+2025-05-12,Tours & Activities,3088.07,,8.4
+2025-05-12,Events & Weddings,12706.53,,9.4
+2025-05-13,Hotel Rooms,14277.16,45,8.2
+2025-05-13,Spa & Wellness,5203.79,,8.6
+2025-05-13,Restaurant,2037.66,,9.2
+2025-05-13,Tours & Activities,2622.58,,8.3
+2025-05-13,Events & Weddings,0.0,,
+2025-05-14,Hotel Rooms,10920.18,34,9.0
+2025-05-14,Spa & Wellness,2991.31,,8.6
+2025-05-14,Restaurant,2237.9,,9.0
+2025-05-14,Tours & Activities,3094.57,,8.5
+2025-05-14,Events & Weddings,0.0,,
+2025-05-15,Hotel Rooms,15407.17,48,8.5
+2025-05-15,Spa & Wellness,3515.33,,8.7
+2025-05-15,Restaurant,2479.93,,9.5
+2025-05-15,Tours & Activities,3529.68,,9.0
+2025-05-15,Events & Weddings,15568.02,,8.7
+2025-05-16,Hotel Rooms,11671.11,36,9.2
+2025-05-16,Spa & Wellness,2956.82,,8.3
+2025-05-16,Restaurant,4274.56,,8.9
+2025-05-16,Tours & Activities,4334.46,,8.5
+2025-05-16,Events & Weddings,30358.46,,8.3
+2025-05-17,Hotel Rooms,12382.82,39,8.6
+2025-05-17,Spa & Wellness,6364.69,,8.7
+2025-05-17,Restaurant,5365.88,,8.2
+2025-05-17,Tours & Activities,1661.64,,9.0
+2025-05-17,Events & Weddings,0.0,,
+2025-05-18,Hotel Rooms,10479.49,33,9.0
+2025-05-18,Spa & Wellness,3624.07,,9.3
+2025-05-18,Restaurant,2712.52,,9.5
+2025-05-18,Tours & Activities,3216.36,,8.5
+2025-05-18,Events & Weddings,0.0,,
+2025-05-19,Hotel Rooms,7627.52,24,8.7
+2025-05-19,Spa & Wellness,5367.26,,9.4
+2025-05-19,Restaurant,6588.58,,8.2
+2025-05-19,Tours & Activities,2883.09,,9.4
+2025-05-19,Events & Weddings,0.0,,
+2025-05-20,Hotel Rooms,11293.21,35,8.5
+2025-05-20,Spa & Wellness,3617.37,,8.3
+2025-05-20,Restaurant,6824.4,,9.2
+2025-05-20,Tours & Activities,1060.48,,9.5
+2025-05-20,Events & Weddings,0.0,,
+2025-05-21,Hotel Rooms,13405.46,42,8.7
+2025-05-21,Spa & Wellness,6046.88,,8.3
+2025-05-21,Restaurant,2200.31,,8.4
+2025-05-21,Tours & Activities,3408.48,,8.3
+2025-05-21,Events & Weddings,0.0,,
+2025-05-22,Hotel Rooms,16658.1,52,8.5
+2025-05-22,Spa & Wellness,2454.09,,8.6
+2025-05-22,Restaurant,5818.19,,9.2
+2025-05-22,Tours & Activities,3135.19,,8.6
+2025-05-22,Events & Weddings,0.0,,
+2025-05-23,Hotel Rooms,8559.13,27,9.3
+2025-05-23,Spa & Wellness,4819.13,,8.4
+2025-05-23,Restaurant,3012.83,,8.9
+2025-05-23,Tours & Activities,2446.18,,9.0
+2025-05-23,Events & Weddings,0.0,,
+2025-05-24,Hotel Rooms,10097.97,32,8.6
+2025-05-24,Spa & Wellness,2057.64,,8.4
+2025-05-24,Restaurant,6170.76,,9.4
+2025-05-24,Tours & Activities,3552.88,,8.3
+2025-05-24,Events & Weddings,0.0,,
+2025-05-25,Hotel Rooms,5876.48,18,8.5
+2025-05-25,Spa & Wellness,2931.16,,8.9
+2025-05-25,Restaurant,5183.95,,8.6
+2025-05-25,Tours & Activities,3959.89,,8.2
+2025-05-25,Events & Weddings,0.0,,
+2025-05-26,Hotel Rooms,13988.77,44,8.5
+2025-05-26,Spa & Wellness,3466.39,,9.3
+2025-05-26,Restaurant,2427.14,,8.2
+2025-05-26,Tours & Activities,3442.1,,9.6
+2025-05-26,Events & Weddings,14672.56,,9.1
+2025-05-27,Hotel Rooms,12711.86,40,9.0
+2025-05-27,Spa & Wellness,2443.16,,9.3
+2025-05-27,Restaurant,1821.83,,8.3
+2025-05-27,Tours & Activities,3675.06,,8.8
+2025-05-27,Events & Weddings,23357.77,,8.7
+2025-05-28,Hotel Rooms,5277.3,16,8.8
+2025-05-28,Spa & Wellness,1985.83,,9.0
+2025-05-28,Restaurant,5925.25,,8.8
+2025-05-28,Tours & Activities,855.23,,9.2
+2025-05-28,Events & Weddings,0.0,,
+2025-05-29,Hotel Rooms,7061.32,22,8.6
+2025-05-29,Spa & Wellness,5588.04,,8.2
+2025-05-29,Restaurant,4886.38,,8.5
+2025-05-29,Tours & Activities,1713.19,,8.8
+2025-05-29,Events & Weddings,0.0,,
+2025-05-30,Hotel Rooms,9682.18,30,8.4
+2025-05-30,Spa & Wellness,2530.24,,9.4
+2025-05-30,Restaurant,5200.76,,9.1
+2025-05-30,Tours & Activities,3954.18,,9.3
+2025-05-30,Events & Weddings,17019.29,,9.0
+2025-05-31,Hotel Rooms,12668.23,40,9.5
+2025-05-31,Spa & Wellness,4330.07,,8.7
+2025-05-31,Restaurant,3106.3,,8.6
+2025-05-31,Tours & Activities,1731.57,,9.5
+2025-05-31,Events & Weddings,0.0,,
+2025-06-01,Hotel Rooms,25940.37,81,8.9
+2025-06-01,Spa & Wellness,7633.18,,9.6
+2025-06-01,Restaurant,10236.26,,8.3
+2025-06-01,Tours & Activities,4398.34,,8.6
+2025-06-01,Events & Weddings,13221.35,,9.6
+2025-06-02,Hotel Rooms,11385.91,36,9.4
+2025-06-02,Spa & Wellness,7867.95,,8.7
+2025-06-02,Restaurant,9181.11,,9.4
+2025-06-02,Tours & Activities,2028.17,,9.0
+2025-06-02,Events & Weddings,0.0,,
+2025-06-03,Hotel Rooms,24478.52,76,8.2
+2025-06-03,Spa & Wellness,7123.81,,9.5
+2025-06-03,Restaurant,7023.04,,9.0
+2025-06-03,Tours & Activities,2087.99,,9.6
+2025-06-03,Events & Weddings,0.0,,
+2025-06-04,Hotel Rooms,13075.65,41,8.9
+2025-06-04,Spa & Wellness,2433.63,,8.5
+2025-06-04,Restaurant,4323.27,,8.9
+2025-06-04,Tours & Activities,1163.37,,9.5
+2025-06-04,Events & Weddings,0.0,,
+2025-06-05,Hotel Rooms,20764.27,65,9.5
+2025-06-05,Spa & Wellness,8228.32,,8.7
+2025-06-05,Restaurant,2781.58,,9.0
+2025-06-05,Tours & Activities,5681.92,,9.3
+2025-06-05,Events & Weddings,39456.2,,8.7
+2025-06-06,Hotel Rooms,29506.2,92,8.8
+2025-06-06,Spa & Wellness,2969.39,,8.6
+2025-06-06,Restaurant,4340.53,,8.4
+2025-06-06,Tours & Activities,6887.73,,9.3
+2025-06-06,Events & Weddings,0.0,,
+2025-06-07,Hotel Rooms,12429.79,39,9.6
+2025-06-07,Spa & Wellness,8342.61,,9.5
+2025-06-07,Restaurant,10351.13,,8.5
+2025-06-07,Tours & Activities,4794.96,,8.4
+2025-06-07,Events & Weddings,0.0,,
+2025-06-08,Hotel Rooms,9650.52,30,9.2
+2025-06-08,Spa & Wellness,9031.44,,9.5
+2025-06-08,Restaurant,5676.24,,9.6
+2025-06-08,Tours & Activities,5918.36,,8.2
+2025-06-08,Events & Weddings,39658.42,,8.5
+2025-06-09,Hotel Rooms,17910.62,56,9.5
+2025-06-09,Spa & Wellness,2820.84,,9.2
+2025-06-09,Restaurant,4473.51,,9.6
+2025-06-09,Tours & Activities,1987.68,,9.4
+2025-06-09,Events & Weddings,30133.98,,9.4
+2025-06-10,Hotel Rooms,15668.97,49,8.6
+2025-06-10,Spa & Wellness,3657.72,,8.3
+2025-06-10,Restaurant,4619.63,,8.4
+2025-06-10,Tours & Activities,1166.32,,8.7
+2025-06-10,Events & Weddings,37252.01,,8.9
+2025-06-11,Hotel Rooms,14388.73,45,9.0
+2025-06-11,Spa & Wellness,2519.48,,8.9
+2025-06-11,Restaurant,9375.52,,9.1
+2025-06-11,Tours & Activities,4547.7,,8.4
+2025-06-11,Events & Weddings,20152.35,,8.6
+2025-06-12,Hotel Rooms,25188.83,79,8.3
+2025-06-12,Spa & Wellness,3047.26,,8.7
+2025-06-12,Restaurant,8341.44,,9.0
+2025-06-12,Tours & Activities,5587.75,,8.3
+2025-06-12,Events & Weddings,0.0,,
+2025-06-13,Hotel Rooms,19292.51,60,8.2
+2025-06-13,Spa & Wellness,10599.55,,8.4
+2025-06-13,Restaurant,11300.59,,8.4
+2025-06-13,Tours & Activities,1957.86,,8.5
+2025-06-13,Events & Weddings,0.0,,
+2025-06-14,Hotel Rooms,24615.29,77,9.2
+2025-06-14,Spa & Wellness,4458.7,,8.6
+2025-06-14,Restaurant,5274.6,,8.3
+2025-06-14,Tours & Activities,4695.01,,9.4
+2025-06-14,Events & Weddings,0.0,,
+2025-06-15,Hotel Rooms,15310.37,48,8.6
+2025-06-15,Spa & Wellness,6827.63,,9.0
+2025-06-15,Restaurant,4173.45,,8.2
+2025-06-15,Tours & Activities,2002.2,,8.6
+2025-06-15,Events & Weddings,20542.25,,8.8
+2025-06-16,Hotel Rooms,16469.47,51,9.1
+2025-06-16,Spa & Wellness,2440.39,,9.0
+2025-06-16,Restaurant,4057.62,,9.4
+2025-06-16,Tours & Activities,2981.15,,8.8
+2025-06-16,Events & Weddings,0.0,,
+2025-06-17,Hotel Rooms,11514.67,36,8.6
+2025-06-17,Spa & Wellness,2213.7,,9.3
+2025-06-17,Restaurant,7836.28,,8.3
+2025-06-17,Tours & Activities,2854.89,,9.0
+2025-06-17,Events & Weddings,0.0,,
+2025-06-18,Hotel Rooms,17685.4,55,9.4
+2025-06-18,Spa & Wellness,8029.44,,8.8
+2025-06-18,Restaurant,6803.08,,9.4
+2025-06-18,Tours & Activities,3500.88,,9.4
+2025-06-18,Events & Weddings,0.0,,
+2025-06-19,Hotel Rooms,24267.35,76,9.2
+2025-06-19,Spa & Wellness,5598.65,,9.5
+2025-06-19,Restaurant,8877.53,,9.1
+2025-06-19,Tours & Activities,4217.95,,8.4
+2025-06-19,Events & Weddings,0.0,,
+2025-06-20,Hotel Rooms,30450.3,95,9.6
+2025-06-20,Spa & Wellness,9384.56,,8.4
+2025-06-20,Restaurant,6991.53,,9.6
+2025-06-20,Tours & Activities,3901.66,,9.6
+2025-06-20,Events & Weddings,22512.87,,9.5
+2025-06-21,Hotel Rooms,28888.97,90,8.3
+2025-06-21,Spa & Wellness,5572.6,,8.8
+2025-06-21,Restaurant,6093.02,,8.6
+2025-06-21,Tours & Activities,4034.08,,9.4
+2025-06-21,Events & Weddings,0.0,,
+2025-06-22,Hotel Rooms,17100.29,53,8.8
+2025-06-22,Spa & Wellness,4924.99,,8.4
+2025-06-22,Restaurant,7213.52,,9.3
+2025-06-22,Tours & Activities,5792.47,,9.5
+2025-06-22,Events & Weddings,0.0,,
+2025-06-23,Hotel Rooms,12642.85,40,8.9
+2025-06-23,Spa & Wellness,4382.63,,8.8
+2025-06-23,Restaurant,5609.23,,8.9
+2025-06-23,Tours & Activities,4162.18,,8.3
+2025-06-23,Events & Weddings,0.0,,
+2025-06-24,Hotel Rooms,18723.15,59,9.2
+2025-06-24,Spa & Wellness,2038.04,,9.4
+2025-06-24,Restaurant,5205.6,,8.5
+2025-06-24,Tours & Activities,4836.55,,9.5
+2025-06-24,Events & Weddings,0.0,,
+2025-06-25,Hotel Rooms,22657.72,71,8.6
+2025-06-25,Spa & Wellness,3894.46,,8.9
+2025-06-25,Restaurant,8061.11,,8.3
+2025-06-25,Tours & Activities,5443.68,,8.4
+2025-06-25,Events & Weddings,0.0,,
+2025-06-26,Hotel Rooms,22816.77,71,8.6
+2025-06-26,Spa & Wellness,4942.9,,9.1
+2025-06-26,Restaurant,4081.54,,8.5
+2025-06-26,Tours & Activities,5222.17,,9.2
+2025-06-26,Events & Weddings,35409.5,,8.9
+2025-06-27,Hotel Rooms,12091.02,38,8.6
+2025-06-27,Spa & Wellness,6648.97,,8.4
+2025-06-27,Restaurant,10945.26,,9.4
+2025-06-27,Tours & Activities,1537.2,,8.5
+2025-06-27,Events & Weddings,22225.56,,8.8
+2025-06-28,Hotel Rooms,28974.77,91,9.2
+2025-06-28,Spa & Wellness,4537.71,,9.4
+2025-06-28,Restaurant,7746.86,,9.1
+2025-06-28,Tours & Activities,2089.42,,8.2
+2025-06-28,Events & Weddings,0.0,,
+2025-06-29,Hotel Rooms,10597.45,33,9.4
+2025-06-29,Spa & Wellness,6250.17,,8.7
+2025-06-29,Restaurant,3890.31,,9.5
+2025-06-29,Tours & Activities,4852.38,,9.2
+2025-06-29,Events & Weddings,0.0,,
+2025-06-30,Hotel Rooms,10320.8,32,9.0
+2025-06-30,Spa & Wellness,9155.39,,9.4
+2025-06-30,Restaurant,7678.98,,9.1
+2025-06-30,Tours & Activities,2486.58,,8.8
+2025-06-30,Events & Weddings,33859.61,,8.2
+2025-07-01,Hotel Rooms,24432.07,76,9.1
+2025-07-01,Spa & Wellness,6359.78,,8.2
+2025-07-01,Restaurant,4586.22,,9.3
+2025-07-01,Tours & Activities,2665.92,,9.6
+2025-07-01,Events & Weddings,0.0,,
+2025-07-02,Hotel Rooms,14346.56,45,8.7
+2025-07-02,Spa & Wellness,3676.61,,8.9
+2025-07-02,Restaurant,7912.45,,9.4
+2025-07-02,Tours & Activities,3117.96,,8.3
+2025-07-02,Events & Weddings,0.0,,
+2025-07-03,Hotel Rooms,23145.9,72,8.7
+2025-07-03,Spa & Wellness,6714.82,,9.1
+2025-07-03,Restaurant,4947.07,,8.4
+2025-07-03,Tours & Activities,1474.72,,9.6
+2025-07-03,Events & Weddings,19173.26,,9.2
+2025-07-04,Hotel Rooms,28404.07,89,8.6
+2025-07-04,Spa & Wellness,3412.8,,9.3
+2025-07-04,Restaurant,11392.37,,9.3
+2025-07-04,Tours & Activities,6036.47,,9.0
+2025-07-04,Events & Weddings,0.0,,
+2025-07-05,Hotel Rooms,24598.5,77,9.1
+2025-07-05,Spa & Wellness,11098.55,,8.6
+2025-07-05,Restaurant,6947.1,,8.7
+2025-07-05,Tours & Activities,1574.26,,9.2
+2025-07-05,Events & Weddings,0.0,,
+2025-07-06,Hotel Rooms,20945.47,65,8.5
+2025-07-06,Spa & Wellness,5848.67,,9.3
+2025-07-06,Restaurant,9708.1,,9.1
+2025-07-06,Tours & Activities,3661.06,,9.4
+2025-07-06,Events & Weddings,16852.94,,8.3
+2025-07-07,Hotel Rooms,9661.75,30,8.6
+2025-07-07,Spa & Wellness,7952.12,,9.3
+2025-07-07,Restaurant,4043.43,,9.2
+2025-07-07,Tours & Activities,2814.67,,8.3
+2025-07-07,Events & Weddings,20505.47,,9.3
+2025-07-08,Hotel Rooms,13495.33,42,8.6
+2025-07-08,Spa & Wellness,3999.78,,9.4
+2025-07-08,Restaurant,6294.3,,9.4
+2025-07-08,Tours & Activities,4037.02,,9.5
+2025-07-08,Events & Weddings,26113.84,,9.4
+2025-07-09,Hotel Rooms,14444.46,45,8.6
+2025-07-09,Spa & Wellness,2155.47,,9.4
+2025-07-09,Restaurant,3685.57,,8.5
+2025-07-09,Tours & Activities,3177.32,,9.0
+2025-07-09,Events & Weddings,0.0,,
+2025-07-10,Hotel Rooms,13213.83,41,9.2
+2025-07-10,Spa & Wellness,7726.16,,8.9
+2025-07-10,Restaurant,7550.99,,8.4
+2025-07-10,Tours & Activities,4288.08,,8.2
+2025-07-10,Events & Weddings,16489.57,,9.3
+2025-07-11,Hotel Rooms,19444.66,61,9.3
+2025-07-11,Spa & Wellness,2851.59,,9.1
+2025-07-11,Restaurant,8932.84,,8.8
+2025-07-11,Tours & Activities,6984.5,,8.7
+2025-07-11,Events & Weddings,0.0,,
+2025-07-12,Hotel Rooms,16853.89,53,8.2
+2025-07-12,Spa & Wellness,4975.13,,9.4
+2025-07-12,Restaurant,4840.61,,9.1
+2025-07-12,Tours & Activities,5014.49,,8.5
+2025-07-12,Events & Weddings,0.0,,
+2025-07-13,Hotel Rooms,9680.35,30,8.7
+2025-07-13,Spa & Wellness,6263.93,,8.4
+2025-07-13,Restaurant,9060.7,,8.6
+2025-07-13,Tours & Activities,2593.78,,9.2
+2025-07-13,Events & Weddings,0.0,,
+2025-07-14,Hotel Rooms,23988.31,75,9.6
+2025-07-14,Spa & Wellness,4373.9,,9.5
+2025-07-14,Restaurant,5422.93,,8.5
+2025-07-14,Tours & Activities,5834.06,,9.5
+2025-07-14,Events & Weddings,0.0,,
+2025-07-15,Hotel Rooms,20957.13,65,8.4
+2025-07-15,Spa & Wellness,7381.38,,9.0
+2025-07-15,Restaurant,3933.15,,8.7
+2025-07-15,Tours & Activities,4367.16,,8.3
+2025-07-15,Events & Weddings,0.0,,
+2025-07-16,Hotel Rooms,17329.73,54,8.3
+2025-07-16,Spa & Wellness,9384.12,,9.1
+2025-07-16,Restaurant,7727.43,,8.2
+2025-07-16,Tours & Activities,4560.47,,8.8
+2025-07-16,Events & Weddings,0.0,,
+2025-07-17,Hotel Rooms,16192.37,51,8.4
+2025-07-17,Spa & Wellness,7082.55,,9.1
+2025-07-17,Restaurant,4967.74,,9.1
+2025-07-17,Tours & Activities,4426.04,,8.6
+2025-07-17,Events & Weddings,0.0,,
+2025-07-18,Hotel Rooms,27031.21,84,8.3
+2025-07-18,Spa & Wellness,8571.19,,8.4
+2025-07-18,Restaurant,4133.21,,8.3
+2025-07-18,Tours & Activities,2524.41,,8.5
+2025-07-18,Events & Weddings,0.0,,
+2025-07-19,Hotel Rooms,13040.82,41,9.2
+2025-07-19,Spa & Wellness,4731.53,,8.3
+2025-07-19,Restaurant,7665.82,,8.5
+2025-07-19,Tours & Activities,6797.16,,8.7
+2025-07-19,Events & Weddings,0.0,,
+2025-07-20,Hotel Rooms,24344.69,76,9.4
+2025-07-20,Spa & Wellness,6881.43,,8.4
+2025-07-20,Restaurant,3315.35,,8.9
+2025-07-20,Tours & Activities,4727.17,,8.3
+2025-07-20,Events & Weddings,0.0,,
+2025-07-21,Hotel Rooms,25886.35,81,8.6
+2025-07-21,Spa & Wellness,5307.97,,8.3
+2025-07-21,Restaurant,3977.92,,8.3
+2025-07-21,Tours & Activities,2592.5,,9.3
+2025-07-21,Events & Weddings,14354.96,,9.3
+2025-07-22,Hotel Rooms,8115.01,25,9.4
+2025-07-22,Spa & Wellness,6837.88,,8.4
+2025-07-22,Restaurant,5409.44,,8.8
+2025-07-22,Tours & Activities,4225.51,,9.4
+2025-07-22,Events & Weddings,16903.21,,8.8
+2025-07-23,Hotel Rooms,25389.54,79,8.6
+2025-07-23,Spa & Wellness,4704.22,,9.4
+2025-07-23,Restaurant,8873.21,,9.1
+2025-07-23,Tours & Activities,5088.76,,8.4
+2025-07-23,Events & Weddings,0.0,,
+2025-07-24,Hotel Rooms,25015.5,78,8.4
+2025-07-24,Spa & Wellness,4937.17,,9.0
+2025-07-24,Restaurant,8891.73,,9.1
+2025-07-24,Tours & Activities,2053.61,,8.7
+2025-07-24,Events & Weddings,0.0,,
+2025-07-25,Hotel Rooms,23779.54,74,9.4
+2025-07-25,Spa & Wellness,10880.69,,8.4
+2025-07-25,Restaurant,11583.73,,8.4
+2025-07-25,Tours & Activities,3761.41,,8.3
+2025-07-25,Events & Weddings,0.0,,
+2025-07-26,Hotel Rooms,24226.71,76,9.1
+2025-07-26,Spa & Wellness,9013.38,,9.0
+2025-07-26,Restaurant,8300.17,,9.6
+2025-07-26,Tours & Activities,5265.55,,8.7
+2025-07-26,Events & Weddings,16947.19,,9.1
+2025-07-27,Hotel Rooms,11935.68,37,8.7
+2025-07-27,Spa & Wellness,6937.33,,8.7
+2025-07-27,Restaurant,9179.63,,9.0
+2025-07-27,Tours & Activities,6029.81,,8.3
+2025-07-27,Events & Weddings,0.0,,
+2025-07-28,Hotel Rooms,23250.74,73,9.4
+2025-07-28,Spa & Wellness,8421.46,,8.3
+2025-07-28,Restaurant,6459.6,,8.5
+2025-07-28,Tours & Activities,5942.82,,8.3
+2025-07-28,Events & Weddings,0.0,,
+2025-07-29,Hotel Rooms,14851.77,46,8.5
+2025-07-29,Spa & Wellness,5268.14,,9.3
+2025-07-29,Restaurant,6118.61,,9.4
+2025-07-29,Tours & Activities,3364.05,,8.4
+2025-07-29,Events & Weddings,0.0,,
+2025-07-30,Hotel Rooms,9184.83,29,8.8
+2025-07-30,Spa & Wellness,6021.55,,8.2
+2025-07-30,Restaurant,3321.71,,9.0
+2025-07-30,Tours & Activities,4212.0,,8.6
+2025-07-30,Events & Weddings,0.0,,
+2025-07-31,Hotel Rooms,19907.29,62,9.5
+2025-07-31,Spa & Wellness,4532.29,,8.3
+2025-07-31,Restaurant,4355.45,,8.8
+2025-07-31,Tours & Activities,3921.54,,9.1
+2025-07-31,Events & Weddings,0.0,,
+2025-08-01,Hotel Rooms,24479.06,76,8.4
+2025-08-01,Spa & Wellness,8938.94,,8.5
+2025-08-01,Restaurant,6233.73,,9.4
+2025-08-01,Tours & Activities,6979.3,,8.6
+2025-08-01,Events & Weddings,15254.53,,8.4
+2025-08-02,Hotel Rooms,11679.01,36,9.2
+2025-08-02,Spa & Wellness,8596.51,,8.3
+2025-08-02,Restaurant,8723.7,,8.5
+2025-08-02,Tours & Activities,6780.24,,8.8
+2025-08-02,Events & Weddings,38216.48,,8.4
+2025-08-03,Hotel Rooms,15062.77,47,9.5
+2025-08-03,Spa & Wellness,8175.93,,9.0
+2025-08-03,Restaurant,8655.9,,8.8
+2025-08-03,Tours & Activities,4406.19,,9.5
+2025-08-03,Events & Weddings,0.0,,
+2025-08-04,Hotel Rooms,17247.37,54,8.3
+2025-08-04,Spa & Wellness,8927.84,,9.4
+2025-08-04,Restaurant,6391.36,,8.9
+2025-08-04,Tours & Activities,5701.33,,8.4
+2025-08-04,Events & Weddings,15323.07,,8.7
+2025-08-05,Hotel Rooms,18570.29,58,9.4
+2025-08-05,Spa & Wellness,5614.09,,8.7
+2025-08-05,Restaurant,10279.49,,9.5
+2025-08-05,Tours & Activities,4918.51,,8.6
+2025-08-05,Events & Weddings,24732.53,,8.4
+2025-08-06,Hotel Rooms,15030.25,47,9.2
+2025-08-06,Spa & Wellness,7491.66,,8.6
+2025-08-06,Restaurant,8102.7,,9.4
+2025-08-06,Tours & Activities,4669.54,,9.5
+2025-08-06,Events & Weddings,0.0,,
+2025-08-07,Hotel Rooms,19015.56,59,8.6
+2025-08-07,Spa & Wellness,4393.58,,9.1
+2025-08-07,Restaurant,10293.86,,9.1
+2025-08-07,Tours & Activities,5884.55,,8.9
+2025-08-07,Events & Weddings,0.0,,
+2025-08-08,Hotel Rooms,11121.96,35,8.7
+2025-08-08,Spa & Wellness,6409.34,,9.0
+2025-08-08,Restaurant,9243.93,,8.8
+2025-08-08,Tours & Activities,5719.45,,9.4
+2025-08-08,Events & Weddings,41348.19,,8.9
+2025-08-09,Hotel Rooms,9117.13,28,8.4
+2025-08-09,Spa & Wellness,8131.27,,8.5
+2025-08-09,Restaurant,10011.06,,8.4
+2025-08-09,Tours & Activities,3036.16,,8.6
+2025-08-09,Events & Weddings,0.0,,
+2025-08-10,Hotel Rooms,12813.4,40,9.3
+2025-08-10,Spa & Wellness,1988.27,,9.3
+2025-08-10,Restaurant,3412.42,,9.4
+2025-08-10,Tours & Activities,4805.7,,9.4
+2025-08-10,Events & Weddings,0.0,,
+2025-08-11,Hotel Rooms,11728.67,37,9.3
+2025-08-11,Spa & Wellness,7878.95,,8.6
+2025-08-11,Restaurant,7812.98,,9.5
+2025-08-11,Tours & Activities,3070.64,,9.5
+2025-08-11,Events & Weddings,0.0,,
+2025-08-12,Hotel Rooms,17657.55,55,8.2
+2025-08-12,Spa & Wellness,3671.56,,9.1
+2025-08-12,Restaurant,8724.64,,9.4
+2025-08-12,Tours & Activities,5251.82,,9.5
+2025-08-12,Events & Weddings,0.0,,
+2025-08-13,Hotel Rooms,21483.78,67,9.0
+2025-08-13,Spa & Wellness,6377.03,,9.3
+2025-08-13,Restaurant,10160.39,,8.6
+2025-08-13,Tours & Activities,2034.71,,9.2
+2025-08-13,Events & Weddings,0.0,,
+2025-08-14,Hotel Rooms,16936.01,53,8.7
+2025-08-14,Spa & Wellness,5033.08,,9.0
+2025-08-14,Restaurant,3628.42,,9.0
+2025-08-14,Tours & Activities,2417.23,,8.7
+2025-08-14,Events & Weddings,0.0,,
+2025-08-15,Hotel Rooms,11973.82,37,8.7
+2025-08-15,Spa & Wellness,2514.37,,9.5
+2025-08-15,Restaurant,8767.65,,9.1
+2025-08-15,Tours & Activities,4222.53,,9.0
+2025-08-15,Events & Weddings,24565.14,,8.5
+2025-08-16,Hotel Rooms,12644.8,40,8.3
+2025-08-16,Spa & Wellness,6633.96,,8.8
+2025-08-16,Restaurant,8041.69,,8.3
+2025-08-16,Tours & Activities,2655.6,,8.5
+2025-08-16,Events & Weddings,0.0,,
+2025-08-17,Hotel Rooms,11367.69,36,9.3
+2025-08-17,Spa & Wellness,5816.88,,9.6
+2025-08-17,Restaurant,9059.48,,9.6
+2025-08-17,Tours & Activities,1203.4,,9.1
+2025-08-17,Events & Weddings,29397.33,,9.1
+2025-08-18,Hotel Rooms,25325.2,79,9.2
+2025-08-18,Spa & Wellness,4206.4,,9.5
+2025-08-18,Restaurant,10009.25,,8.7
+2025-08-18,Tours & Activities,3823.37,,8.6
+2025-08-18,Events & Weddings,22473.78,,9.3
+2025-08-19,Hotel Rooms,15648.75,49,8.3
+2025-08-19,Spa & Wellness,8643.29,,8.5
+2025-08-19,Restaurant,6633.8,,9.5
+2025-08-19,Tours & Activities,1985.26,,9.5
+2025-08-19,Events & Weddings,0.0,,
+2025-08-20,Hotel Rooms,8484.14,27,9.1
+2025-08-20,Spa & Wellness,7684.98,,9.4
+2025-08-20,Restaurant,5931.56,,8.3
+2025-08-20,Tours & Activities,3811.13,,9.2
+2025-08-20,Events & Weddings,30350.27,,9.5
+2025-08-21,Hotel Rooms,21328.89,67,8.4
+2025-08-21,Spa & Wellness,5269.15,,8.7
+2025-08-21,Restaurant,3295.29,,8.3
+2025-08-21,Tours & Activities,5075.48,,9.0
+2025-08-21,Events & Weddings,0.0,,
+2025-08-22,Hotel Rooms,14308.11,45,8.7
+2025-08-22,Spa & Wellness,7768.2,,8.8
+2025-08-22,Restaurant,3235.86,,9.1
+2025-08-22,Tours & Activities,4480.15,,9.1
+2025-08-22,Events & Weddings,33727.51,,9.2
+2025-08-23,Hotel Rooms,10169.61,32,9.5
+2025-08-23,Spa & Wellness,3015.67,,9.3
+2025-08-23,Restaurant,5864.1,,8.3
+2025-08-23,Tours & Activities,5820.71,,8.8
+2025-08-23,Events & Weddings,0.0,,
+2025-08-24,Hotel Rooms,16184.67,51,8.9
+2025-08-24,Spa & Wellness,2788.09,,8.7
+2025-08-24,Restaurant,8854.3,,9.0
+2025-08-24,Tours & Activities,5893.46,,8.4
+2025-08-24,Events & Weddings,34655.5,,9.2
+2025-08-25,Hotel Rooms,14283.51,45,9.5
+2025-08-25,Spa & Wellness,5993.83,,9.0
+2025-08-25,Restaurant,3574.93,,8.2
+2025-08-25,Tours & Activities,4101.51,,9.0
+2025-08-25,Events & Weddings,0.0,,
+2025-08-26,Hotel Rooms,21355.39,67,9.5
+2025-08-26,Spa & Wellness,4382.5,,8.8
+2025-08-26,Restaurant,7667.64,,8.9
+2025-08-26,Tours & Activities,1953.5,,8.5
+2025-08-26,Events & Weddings,0.0,,
+2025-08-27,Hotel Rooms,10668.6,33,9.3
+2025-08-27,Spa & Wellness,8289.55,,9.4
+2025-08-27,Restaurant,9910.46,,9.6
+2025-08-27,Tours & Activities,3434.04,,9.0
+2025-08-27,Events & Weddings,0.0,,
+2025-08-28,Hotel Rooms,9101.12,28,9.2
+2025-08-28,Spa & Wellness,5484.06,,8.7
+2025-08-28,Restaurant,3613.92,,9.1
+2025-08-28,Tours & Activities,1653.22,,9.1
+2025-08-28,Events & Weddings,0.0,,
+2025-08-29,Hotel Rooms,18578.72,58,9.1
+2025-08-29,Spa & Wellness,4825.16,,9.0
+2025-08-29,Restaurant,8305.16,,8.7
+2025-08-29,Tours & Activities,3209.04,,8.8
+2025-08-29,Events & Weddings,0.0,,
+2025-08-30,Hotel Rooms,13482.4,42,9.2
+2025-08-30,Spa & Wellness,6008.1,,9.4
+2025-08-30,Restaurant,4320.71,,9.2
+2025-08-30,Tours & Activities,6475.81,,8.8
+2025-08-30,Events & Weddings,0.0,,
+2025-08-31,Hotel Rooms,17649.01,55,8.4
+2025-08-31,Spa & Wellness,6401.93,,9.4
+2025-08-31,Restaurant,9333.73,,8.4
+2025-08-31,Tours & Activities,3815.39,,8.6
+2025-08-31,Events & Weddings,0.0,,

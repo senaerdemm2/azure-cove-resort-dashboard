@@ -1,0 +1,65 @@
+DealID,GroupName,Type,Stage,DealValue_USD,ExpectedGuests,ArrivalDate,SalesRep,DaysInStage,WinProbability,WeightedValue_USD
+GRP-1001,Incentive Trip #1,Incentive Trip,Won,60221.0,60,2025-05-05,Daniel K.,19,1.0,60221.0
+GRP-1002,Film Shoot #2,Film Shoot,Negotiation,124049.0,157,2025-04-30,Daniel K.,13,0.65,80632.0
+GRP-1003,Conference #3,Conference,Qualified,145563.0,336,2025-05-20,Priya S.,33,0.25,36391.0
+GRP-1004,Yoga Retreat #4,Yoga Retreat,Qualified,46191.0,293,2024-10-12,Daniel K.,20,0.25,11548.0
+GRP-1005,Film Shoot #5,Film Shoot,Lead,104875.0,24,2025-01-28,Maya R.,2,0.1,10488.0
+GRP-1006,Birthday Celebration #6,Birthday Celebration,Qualified,101150.0,275,2025-04-09,Lucas M.,23,0.25,25288.0
+GRP-1007,Wedding #7,Wedding,Won,210087.0,48,2025-02-14,Lucas M.,32,1.0,210087.0
+GRP-1008,Conference #8,Conference,Lead,187516.0,215,2024-10-07,Maya R.,26,0.1,18752.0
+GRP-1009,Birthday Celebration #9,Birthday Celebration,Qualified,218880.0,121,2025-05-24,Maya R.,15,0.25,54720.0
+GRP-1010,Birthday Celebration #10,Birthday Celebration,Proposal Sent,212049.0,185,2024-12-21,Maya R.,35,0.45,95422.0
+GRP-1011,Wedding #11,Wedding,Qualified,145897.0,121,2025-04-03,Maya R.,15,0.25,36474.0
+GRP-1012,Wedding #12,Wedding,Qualified,104003.0,27,2024-12-25,Priya S.,9,0.25,26001.0
+GRP-1013,Incentive Trip #13,Incentive Trip,Won,16831.0,41,2025-07-25,Lucas M.,11,1.0,16831.0
+GRP-1014,Sports Team #14,Sports Team,Won,65988.0,275,2024-11-16,Aisha B.,5,1.0,65988.0
+GRP-1015,Corporate Retreat #15,Corporate Retreat,Qualified,46553.0,294,2024-11-24,Daniel K.,16,0.25,11638.0
+GRP-1016,Sports Team #16,Sports Team,Lost,176655.0,197,2025-05-13,Daniel K.,26,0.0,0.0
+GRP-1017,Sports Team #17,Sports Team,Won,66393.0,40,2025-06-06,Lucas M.,20,1.0,66393.0
+GRP-1018,Birthday Celebration #18,Birthday Celebration,Lead,53258.0,198,2025-03-15,Lucas M.,12,0.1,5326.0
+GRP-1019,Wedding #19,Wedding,Proposal Sent,107124.0,154,2025-07-05,Priya S.,2,0.45,48206.0
+GRP-1020,Incentive Trip #20,Incentive Trip,Won,196001.0,337,2025-04-05,Aisha B.,22,1.0,196001.0
+GRP-1021,Wedding #21,Wedding,Negotiation,125486.0,218,2025-01-06,Aisha B.,11,0.65,81566.0
+GRP-1022,Film Shoot #22,Film Shoot,Qualified,146385.0,76,2024-11-19,Aisha B.,6,0.25,36596.0
+GRP-1023,Corporate Retreat #23,Corporate Retreat,Won,41604.0,36,2025-01-12,Maya R.,14,1.0,41604.0
+GRP-1024,Wedding #24,Wedding,Lead,146559.0,218,2025-09-02,Lucas M.,18,0.1,14656.0
+GRP-1025,Corporate Retreat #25,Corporate Retreat,Qualified,139220.0,56,2024-10-07,Daniel K.,33,0.25,34805.0
+GRP-1026,Wedding #26,Wedding,Proposal Sent,145978.0,204,2025-07-13,Lucas M.,5,0.45,65690.0
+GRP-1027,Film Shoot #27,Film Shoot,Proposal Sent,165532.0,175,2024-11-09,Daniel K.,8,0.45,74489.0
+GRP-1028,Wedding #28,Wedding,Won,123991.0,117,2025-01-07,Aisha B.,17,1.0,123991.0
+GRP-1029,Conference #29,Conference,Negotiation,129419.0,74,2025-08-23,Aisha B.,31,0.65,84122.0
+GRP-1030,Incentive Trip #30,Incentive Trip,Lost,49196.0,112,2025-07-09,Lucas M.,23,0.0,0.0
+GRP-1031,Conference #31,Conference,Proposal Sent,137983.0,200,2025-03-11,Aisha B.,25,0.45,62092.0
+GRP-1032,Incentive Trip #32,Incentive Trip,Won,103271.0,185,2025-08-08,Daniel K.,15,1.0,103271.0
+GRP-1033,Incentive Trip #33,Incentive Trip,Won,204860.0,150,2025-04-03,Lucas M.,27,1.0,204860.0
+GRP-1034,Corporate Retreat #34,Corporate Retreat,Won,216506.0,325,2024-10-09,Aisha B.,21,1.0,216506.0
+GRP-1035,Corporate Retreat #35,Corporate Retreat,Qualified,60487.0,181,2024-10-12,Priya S.,34,0.25,15122.0
+GRP-1036,Conference #36,Conference,Lead,109376.0,99,2024-12-10,Priya S.,17,0.1,10938.0
+GRP-1037,Yoga Retreat #37,Yoga Retreat,Qualified,76562.0,312,2025-04-23,Aisha B.,6,0.25,19140.0
+GRP-1038,Sports Team #38,Sports Team,Won,50445.0,315,2024-11-18,Aisha B.,21,1.0,50445.0
+GRP-1039,Corporate Retreat #39,Corporate Retreat,Won,133138.0,60,2024-10-29,Priya S.,29,1.0,133138.0
+GRP-1040,Incentive Trip #40,Incentive Trip,Lost,39711.0,136,2025-08-31,Aisha B.,26,0.0,0.0
+GRP-1041,Corporate Retreat #41,Corporate Retreat,Qualified,23442.0,296,2025-07-17,Daniel K.,34,0.25,5860.0
+GRP-1042,Yoga Retreat #42,Yoga Retreat,Lead,153095.0,221,2025-05-17,Aisha B.,34,0.1,15310.0
+GRP-1043,Wedding #43,Wedding,Qualified,74406.0,221,2024-12-15,Daniel K.,7,0.25,18602.0
+GRP-1044,Birthday Celebration #44,Birthday Celebration,Negotiation,25109.0,224,2025-02-12,Maya R.,34,0.65,16321.0
+GRP-1045,Incentive Trip #45,Incentive Trip,Won,41727.0,89,2025-06-04,Aisha B.,33,1.0,41727.0
+GRP-1046,Incentive Trip #46,Incentive Trip,Negotiation,55200.0,335,2025-06-26,Daniel K.,6,0.65,35880.0
+GRP-1047,Film Shoot #47,Film Shoot,Won,81299.0,314,2024-11-15,Maya R.,28,1.0,81299.0
+GRP-1048,Incentive Trip #48,Incentive Trip,Qualified,54050.0,196,2025-08-01,Maya R.,12,0.25,13512.0
+GRP-1049,Sports Team #49,Sports Team,Negotiation,217983.0,246,2025-08-16,Daniel K.,4,0.65,141689.0
+GRP-1050,Yoga Retreat #50,Yoga Retreat,Lead,91633.0,63,2024-11-27,Maya R.,11,0.1,9163.0
+GRP-1051,Film Shoot #51,Film Shoot,Lead,157228.0,76,2025-03-06,Lucas M.,3,0.1,15723.0
+GRP-1052,Sports Team #52,Sports Team,Qualified,125291.0,124,2025-07-07,Aisha B.,32,0.25,31323.0
+GRP-1053,Conference #53,Conference,Won,151993.0,212,2025-07-26,Aisha B.,18,1.0,151993.0
+GRP-1054,Conference #54,Conference,Lead,56143.0,336,2025-02-16,Maya R.,2,0.1,5614.0
+GRP-1055,Wedding #55,Wedding,Proposal Sent,70619.0,204,2024-11-25,Maya R.,26,0.45,31779.0
+GRP-1056,Yoga Retreat #56,Yoga Retreat,Lost,119251.0,70,2025-03-11,Lucas M.,7,0.0,0.0
+GRP-1057,Conference #57,Conference,Lead,213192.0,307,2025-09-30,Maya R.,17,0.1,21319.0
+GRP-1058,Film Shoot #58,Film Shoot,Qualified,95647.0,100,2024-10-10,Priya S.,24,0.25,23912.0
+GRP-1059,Film Shoot #59,Film Shoot,Qualified,215540.0,276,2025-02-19,Maya R.,18,0.25,53885.0
+GRP-1060,Incentive Trip #60,Incentive Trip,Lost,182046.0,35,2025-07-12,Priya S.,11,0.0,0.0
+GRP-1061,Sports Team #61,Sports Team,Lost,149671.0,64,2025-04-14,Aisha B.,16,0.0,0.0
+GRP-1062,Incentive Trip #62,Incentive Trip,Qualified,46314.0,179,2025-08-06,Priya S.,10,0.25,11578.0
+GRP-1063,Yoga Retreat #63,Yoga Retreat,Negotiation,134111.0,123,2024-12-10,Priya S.,10,0.65,87172.0
+GRP-1064,Incentive Trip #64,Incentive Trip,Lost,215034.0,94,2025-09-01,Aisha B.,22,0.0,0.0
