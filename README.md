@@ -13,14 +13,19 @@
 
 A 60-second video walkthrough of the prototype is available in `prototype-loop-B.mp4`.
 
-## 🖼️ Preview
+## 🖼️ Preview — All 4 Pages
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshot-1-exec (1).png)
+![Executive Overview](screenshot-1-exec.png)
+
+### Page 2 — Customer Acquisition & Funnel
+![Customer Acquisition & Funnel](screenshot-2-funnel.png)
+
+### Page 3 — Group/Business Sales Pipeline
+![Sales Pipeline](screenshot-3-pipeline.png)
 
 ### Page 4 — Launch Readiness (Gantt + Alerts)
 ![Launch Readiness](screenshot-4-launch.png)
-
 ---
 
 ## 📊 What's Inside
